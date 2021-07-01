@@ -5,6 +5,6 @@ __pycache__/
 *.pot
 backend/keyword.yaml
 backend/data_dosen.json
-
+.vscode
 frontend/node_modules/
 build

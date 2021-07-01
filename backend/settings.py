@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-l)1deyl1gr&dx+yf-e8r8)@+!+e(xe^h$tkbl)+!920epg$8sy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['reksis.herokuapp.com']
 
 
 # Application definition
@@ -145,6 +145,10 @@ SITE_ROOT = os.path.dirname(os.path.realpath(__file__))
 STATICFILES_DIRS = (
   os.path.join(BASE_DIR, 'static/'),
 )
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
