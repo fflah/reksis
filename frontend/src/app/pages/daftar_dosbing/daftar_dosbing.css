@@ -1,0 +1,12 @@
+.card_daftar_dosen {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    background-color: rgb(241, 241, 243);
+    border-bottom: .25rem solid #5B47FB !important;
+    min-height: 600px;
+}
+
+.list-group-item{
+    background-color: rgb(241, 241, 243);
+}

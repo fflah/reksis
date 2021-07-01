@@ -1,0 +1,10 @@
+env/
+**/*.pyc
+__pycache__/
+*.log
+*.pot
+backend/keyword.yaml
+backend/data_dosen.json
+
+frontend/node_modules/
+build

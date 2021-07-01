@@ -1,0 +1,7137 @@
+- model: reksis_dosbing.keyword
+  pk: 1
+  fields:
+    text: android
+    
+- model: reksis_dosbing.keyword
+  pk: 2
+  fields:
+    text: pembelajaran ilmu hadis
+    
+- model: reksis_dosbing.keyword
+  pk: 3
+  fields:
+    text: perangkat mobile
+    
+- model: reksis_dosbing.keyword
+  pk: 4
+  fields:
+    text: pemilihan rumah tinggal
+    
+- model: reksis_dosbing.keyword
+  pk: 5
+  fields:
+    text: weighted product
+    
+- model: reksis_dosbing.keyword
+  pk: 6
+  fields:
+    text: sistem berbasis web
+    
+- model: reksis_dosbing.keyword
+  pk: 7
+  fields:
+    text: educative game
+    
+- model: reksis_dosbing.keyword
+  pk: 8
+  fields:
+    text: interactive learning media
+    
+- model: reksis_dosbing.keyword
+  pk: 9
+  fields:
+    text: game aksara jawa
+    
+- model: reksis_dosbing.keyword
+  pk: 10
+  fields:
+    text: pengenalan aksara jawa
+    
+- model: reksis_dosbing.keyword
+  pk: 11
+  fields:
+    text: media pembelajaran interaktif
+    
+- model: reksis_dosbing.keyword
+  pk: 12
+  fields:
+    text: sistem informasi website
+    
+- model: reksis_dosbing.keyword
+  pk: 13
+  fields:
+    text: bacterial foraging algorithm
+    
+- model: reksis_dosbing.keyword
+  pk: 14
+  fields:
+    text: adaptable chemotactic 
+    
+- model: reksis_dosbing.keyword
+  pk: 15
+  fields:
+    text: teknologi website sekolah
+    
+- model: reksis_dosbing.keyword
+  pk: 16
+  fields:
+    text: smp muhammadiyah
+    
+- model: reksis_dosbing.keyword
+  pk: 17
+  fields:
+    text: sma muhammadiyah
+    
+- model: reksis_dosbing.keyword
+  pk: 18
+  fields:
+    text: microorganisms
+    
+- model: reksis_dosbing.keyword
+  pk: 19
+  fields:
+    text: optimization
+    
+- model: reksis_dosbing.keyword
+  pk: 20
+  fields:
+    text: convergence
+    
+- model: reksis_dosbing.keyword
+  pk: 21
+  fields:
+    text: computational complexity
+    
+- model: reksis_dosbing.keyword
+  pk: 22
+  fields:
+    text: three dimensional displays
+    
+- model: reksis_dosbing.keyword
+  pk: 23
+  fields:
+    text: benchmark testing
+    
+- model: reksis_dosbing.keyword
+  pk: 24
+  fields:
+    text: IOT
+    
+- model: reksis_dosbing.keyword
+  pk: 25
+  fields:
+    text: payloads
+    
+- model: reksis_dosbing.keyword
+  pk: 26
+  fields:
+    text: manipulators
+    
+- model: reksis_dosbing.keyword
+  pk: 27
+  fields:
+    text: mathematical model
+    
+- model: reksis_dosbing.keyword
+  pk: 28
+  fields:
+    text: time domain analysis
+    
+- model: reksis_dosbing.keyword
+  pk: 29
+  fields:
+    text: cost function
+    
+- model: reksis_dosbing.keyword
+  pk: 30
+  fields:
+    text: network
+    
+- model: reksis_dosbing.keyword
+  pk: 31
+  fields:
+    text: TEAK
+    
+- model: reksis_dosbing.keyword
+  pk: 32
+  fields:
+    text: newly fallen leaves
+    
+- model: reksis_dosbing.keyword
+  pk: 33
+  fields:
+    text: nutrients
+    
+- model: reksis_dosbing.keyword
+  pk: 34
+  fields:
+    text: sites
+    
+- model: reksis_dosbing.keyword
+  pk: 35
+  fields:
+    text: JAVA
+    
+- model: reksis_dosbing.keyword
+  pk: 36
+  fields:
+    text: machine learning
+    
+- model: reksis_dosbing.keyword
+  pk: 37
+  fields:
+    text: wheeled robot model
+    
+- model: reksis_dosbing.keyword
+  pk: 38
+  fields:
+    text: gas leakage detection
+    
+- model: reksis_dosbing.keyword
+  pk: 39
+  fields:
+    text: gas pipeline tracking
+    
+- model: reksis_dosbing.keyword
+  pk: 40
+  fields:
+    text: gas detection systems
+    
+- model: reksis_dosbing.keyword
+  pk: 41
+  fields:
+    text: arduino
+    
+- model: reksis_dosbing.keyword
+  pk: 42
+  fields:
+    text: detak jantung
+    
+- model: reksis_dosbing.keyword
+  pk: 43
+  fields:
+    text: suhu tubuh
+    
+- model: reksis_dosbing.keyword
+  pk: 44
+  fields:
+    text: presence
+    
+- model: reksis_dosbing.keyword
+  pk: 45
+  fields:
+    text: asisstans
+    
+- model: reksis_dosbing.keyword
+  pk: 46
+  fields:
+    text: R&D
+    
+- model: reksis_dosbing.keyword
+  pk: 47
+  fields:
+    text: codeigniter
+    
+- model: reksis_dosbing.keyword
+  pk: 48
+  fields:
+    text: qr code
+    
+- model: reksis_dosbing.keyword
+  pk: 49
+  fields:
+    text: webcam
+    
+- model: reksis_dosbing.keyword
+  pk: 50
+  fields:
+    text: media berbasis web
+    
+- model: reksis_dosbing.keyword
+  pk: 51
+  fields:
+    text: pembelajaran berbasis multimedia
+    
+- model: reksis_dosbing.keyword
+  pk: 52
+  fields:
+    text: bola voli
+    
+- model: reksis_dosbing.keyword
+  pk: 53
+  fields:
+    text: content management systems
+    
+- model: reksis_dosbing.keyword
+  pk: 54
+  fields:
+    text: rumah makan
+    
+- model: reksis_dosbing.keyword
+  pk: 55
+  fields:
+    text: pemesanan menu
+    
+- model: reksis_dosbing.keyword
+  pk: 56
+  fields:
+    text: makanan
+    
+- model: reksis_dosbing.keyword
+  pk: 57
+  fields:
+    text: minuman
+    
+- model: reksis_dosbing.keyword
+  pk: 58
+  fields:
+    text: mysql
+    
+- model: reksis_dosbing.keyword
+  pk: 59
+  fields:
+    text: perpustakaan
+    
+- model: reksis_dosbing.keyword
+  pk: 60
+  fields:
+    text: PC
+    
+- model: reksis_dosbing.keyword
+  pk: 61
+  fields:
+    text: PHP
+    
+- model: reksis_dosbing.keyword
+  pk: 62
+  fields:
+    text: qrcode
+    
+- model: reksis_dosbing.keyword
+  pk: 63
+  fields:
+    text: game edukatif
+    
+- model: reksis_dosbing.keyword
+  pk: 64
+  fields:
+    text: media pembelajaran
+    
+- model: reksis_dosbing.keyword
+  pk: 65
+  fields:
+    text: aksara jawa
+    
+- model: reksis_dosbing.keyword
+  pk: 66
+  fields:
+    text: monitoring jarak jauh
+    
+- model: reksis_dosbing.keyword
+  pk: 67
+  fields:
+    text: mikrokontroler at89s51
+    
+- model: reksis_dosbing.keyword
+  pk: 68
+  fields:
+    text: penampil komputer
+    
+- model: reksis_dosbing.keyword
+  pk: 69
+  fields:
+    text: fuzzy-pid
+    
+- model: reksis_dosbing.keyword
+  pk: 70
+  fields:
+    text: pengendali
+    
+- model: reksis_dosbing.keyword
+  pk: 71
+  fields:
+    text: sistem cerdas
+    
+- model: reksis_dosbing.keyword
+  pk: 72
+  fields:
+    text: rekayasa perangkat lunak
+    
+- model: reksis_dosbing.keyword
+  pk: 73
+  fields:
+    text: arduino uno
+    
+- model: reksis_dosbing.keyword
+  pk: 74
+  fields:
+    text: RFID
+    
+- model: reksis_dosbing.keyword
+  pk: 75
+  fields:
+    text: parkir
+    
+- model: reksis_dosbing.keyword
+  pk: 76
+  fields:
+    text: keamana
+    
+- model: reksis_dosbing.keyword
+  pk: 77
+  fields:
+    text: sistem pakar
+    
+- model: reksis_dosbing.keyword
+  pk: 78
+  fields:
+    text: logika kabur
+    
+- model: reksis_dosbing.keyword
+  pk: 79
+  fields:
+    text: sistem inferensi fuzzy
+    
+- model: reksis_dosbing.keyword
+  pk: 80
+  fields:
+    text: biologically-inspired optimisation
+    
+- model: reksis_dosbing.keyword
+  pk: 81
+  fields:
+    text: input tracking
+    
+- model: reksis_dosbing.keyword
+  pk: 82
+  fields:
+    text: joint-based control
+    
+- model: reksis_dosbing.keyword
+  pk: 83
+  fields:
+    text: flexible manipulator
+    
+- model: reksis_dosbing.keyword
+  pk: 84
+  fields:
+    text: android studio
+    
+- model: reksis_dosbing.keyword
+  pk: 85
+  fields:
+    text: forward chaining
+    
+- model: reksis_dosbing.keyword
+  pk: 86
+  fields:
+    text: ikan lele
+    
+- model: reksis_dosbing.keyword
+  pk: 87
+  fields:
+    text: multi reader
+    
+- model: reksis_dosbing.keyword
+  pk: 88
+  fields:
+    text: pengunci pintu
+    
+- model: reksis_dosbing.keyword
+  pk: 89
+  fields:
+    text: deteksi kebakaran
+    
+- model: reksis_dosbing.keyword
+  pk: 90
+  fields:
+    text: web server
+    
+- model: reksis_dosbing.keyword
+  pk: 91
+  fields:
+    text: aplikasi android
+    
+- model: reksis_dosbing.keyword
+  pk: 92
+  fields:
+    text: digital image
+    
+- model: reksis_dosbing.keyword
+  pk: 93
+  fields:
+    text: thresholding
+    
+- model: reksis_dosbing.keyword
+  pk: 94
+  fields:
+    text: RGB
+    
+- model: reksis_dosbing.keyword
+  pk: 95
+  fields:
+    text: grayscale
+    
+- model: reksis_dosbing.keyword
+  pk: 96
+  fields:
+    text: matlab r2014a
+    
+- model: reksis_dosbing.keyword
+  pk: 97
+  fields:
+    text: educational computer game
+    
+- model: reksis_dosbing.keyword
+  pk: 98
+  fields:
+    text: javanese letter learning
+    
+- model: reksis_dosbing.keyword
+  pk: 99
+  fields:
+    text: mobile educational game
+    
+- model: reksis_dosbing.keyword
+  pk: 100
+  fields:
+    text: serious game
+    
+- model: reksis_dosbing.keyword
+  pk: 101
+  fields:
+    text: toko retai
+    
+- model: reksis_dosbing.keyword
+  pk: 102
+  fields:
+    text: telecontrol
+    
+- model: reksis_dosbing.keyword
+  pk: 103
+  fields:
+    text: ac motor
+    
+- model: reksis_dosbing.keyword
+  pk: 104
+  fields:
+    text: induction motor
+    
+- model: reksis_dosbing.keyword
+  pk: 105
+  fields:
+    text: motor
+    
+- model: reksis_dosbing.keyword
+  pk: 106
+  fields:
+    text: control
+    
+- model: reksis_dosbing.keyword
+  pk: 107
+  fields:
+    text: monitoring gas
+    
+- model: reksis_dosbing.keyword
+  pk: 108
+  fields:
+    text: amonia
+    
+- model: reksis_dosbing.keyword
+  pk: 109
+  fields:
+    text: monitoring lingkungan
+    
+- model: reksis_dosbing.keyword
+  pk: 110
+  fields:
+    text: monitoring suhu
+    
+- model: reksis_dosbing.keyword
+  pk: 111
+  fields:
+    text: sistem berbasis mikrokontroler
+    
+- model: reksis_dosbing.keyword
+  pk: 112
+  fields:
+    text: portable telemonitoring
+    
+- model: reksis_dosbing.keyword
+  pk: 113
+  fields:
+    text: ppdb online
+    
+- model: reksis_dosbing.keyword
+  pk: 114
+  fields:
+    text: school
+    
+- model: reksis_dosbing.keyword
+  pk: 115
+  fields:
+    text: website
+    
+- model: reksis_dosbing.keyword
+  pk: 116
+  fields:
+    text: library management system
+    
+- model: reksis_dosbing.keyword
+  pk: 117
+  fields:
+    text: library information system
+    
+- model: reksis_dosbing.keyword
+  pk: 118
+  fields:
+    text: school library
+    
+- model: reksis_dosbing.keyword
+  pk: 119
+  fields:
+    text: web-based system
+    
+- model: reksis_dosbing.keyword
+  pk: 120
+  fields:
+    text: fuzzy logic sugeno
+    
+- model: reksis_dosbing.keyword
+  pk: 121
+  fields:
+    text: decision support systems
+    
+- model: reksis_dosbing.keyword
+  pk: 122
+  fields:
+    text: expert systems
+    
+- model: reksis_dosbing.keyword
+  pk: 123
+  fields:
+    text: web-based systems
+    
+- model: reksis_dosbing.keyword
+  pk: 124
+  fields:
+    text: neural network
+    
+- model: reksis_dosbing.keyword
+  pk: 125
+  fields:
+    text: fuzzy adaptation
+    
+- model: reksis_dosbing.keyword
+  pk: 126
+  fields:
+    text: improved bacterial foraging algorithm
+    
+- model: reksis_dosbing.keyword
+  pk: 127
+  fields:
+    text: digital signal processor
+    
+- model: reksis_dosbing.keyword
+  pk: 128
+  fields:
+    text: filter digital
+    
+- model: reksis_dosbing.keyword
+  pk: 129
+  fields:
+    text: jendela hamming
+    
+- model: reksis_dosbing.keyword
+  pk: 130
+  fields:
+    text: internet of things
+    
+- model: reksis_dosbing.keyword
+  pk: 131
+  fields:
+    text: line follower
+    
+- model: reksis_dosbing.keyword
+  pk: 132
+  fields:
+    text: otomatisasi layanan
+    
+- model: reksis_dosbing.keyword
+  pk: 133
+  fields:
+    text: robot beroda
+    
+- model: reksis_dosbing.keyword
+  pk: 134
+  fields:
+    text: AUC
+    
+- model: reksis_dosbing.keyword
+  pk: 135
+  fields:
+    text: naïve bayes
+    
+- model: reksis_dosbing.keyword
+  pk: 136
+  fields:
+    text: support vector machine
+    
+- model: reksis_dosbing.keyword
+  pk: 137
+  fields:
+    text: motorcycle
+    
+- model: reksis_dosbing.keyword
+  pk: 138
+  fields:
+    text: biometric key
+    
+- model: reksis_dosbing.keyword
+  pk: 139
+  fields:
+    text: fingerprint key
+    
+- model: reksis_dosbing.keyword
+  pk: 140
+  fields:
+    text: alat ukur portable
+    
+- model: reksis_dosbing.keyword
+  pk: 141
+  fields:
+    text: smartpone android
+    
+- model: reksis_dosbing.keyword
+  pk: 142
+  fields:
+    text: hidrokarbon        
+    
+- model: reksis_dosbing.keyword
+  pk: 143
+  fields:
+    text: SAW
+    
+- model: reksis_dosbing.keyword
+  pk: 144
+  fields:
+    text: monitoring
+    
+- model: reksis_dosbing.keyword
+  pk: 145
+  fields:
+    text: pencemaran udara
+    
+- model: reksis_dosbing.keyword
+  pk: 146
+  fields:
+    text: 
+    
+- model: reksis_dosbing.keyword
+  pk: 147
+  fields:
+    text: information system
+    
+- model: reksis_dosbing.keyword
+  pk: 148
+  fields:
+    text: medication error
+    
+- model: reksis_dosbing.keyword
+  pk: 149
+  fields:
+    text: medicine medical record
+    
+- model: reksis_dosbing.keyword
+  pk: 150
+  fields:
+    text: pharmacist
+    
+- model: reksis_dosbing.keyword
+  pk: 151
+  fields:
+    text: PMR
+    
+- model: reksis_dosbing.keyword
+  pk: 152
+  fields:
+    text: bmp180
+    
+- model: reksis_dosbing.keyword
+  pk: 153
+  fields:
+    text: LED
+    
+- model: reksis_dosbing.keyword
+  pk: 154
+  fields:
+    text: sensor gas mq-2
+    
+- model: reksis_dosbing.keyword
+  pk: 155
+  fields:
+    text: telemetry kit 433 mhz
+    
+- model: reksis_dosbing.keyword
+  pk: 156
+  fields:
+    text: quad copter
+    
+- model: reksis_dosbing.keyword
+  pk: 157
+  fields:
+    text: computer based test
+    
+- model: reksis_dosbing.keyword
+  pk: 158
+  fields:
+    text: online national examination
+    
+- model: reksis_dosbing.keyword
+  pk: 159
+  fields:
+    text: web-based test systems
+    
+- model: reksis_dosbing.keyword
+  pk: 160
+  fields:
+    text: algorithm c4.5
+    
+- model: reksis_dosbing.keyword
+  pk: 161
+  fields:
+    text: data mining
+    
+- model: reksis_dosbing.keyword
+  pk: 162
+  fields:
+    text: cassiification
+    
+- model: reksis_dosbing.keyword
+  pk: 163
+  fields:
+    text: archery sports
+    
+- model: reksis_dosbing.keyword
+  pk: 164
+  fields:
+    text: interests
+    
+- model: reksis_dosbing.keyword
+  pk: 165
+  fields:
+    text: raspberry pi
+    
+- model: reksis_dosbing.keyword
+  pk: 166
+  fields:
+    text: sepeda
+    
+- model: reksis_dosbing.keyword
+  pk: 167
+  fields:
+    text: fuzzy logic
+    
+- model: reksis_dosbing.keyword
+  pk: 168
+  fields:
+    text: mamdani
+    
+- model: reksis_dosbing.keyword
+  pk: 169
+  fields:
+    text: MFIS
+    
+- model: reksis_dosbing.keyword
+  pk: 170
+  fields:
+    text: decision support system
+    
+- model: reksis_dosbing.keyword
+  pk: 171
+  fields:
+    text: scholarship
+    
+- model: reksis_dosbing.keyword
+  pk: 172
+  fields:
+    text: django
+    
+- model: reksis_dosbing.keyword
+  pk: 173
+  fields:
+    text: python
+    
+- model: reksis_dosbing.keyword
+  pk: 174
+  fields:
+    text: bluetooth
+    
+- model: reksis_dosbing.keyword
+  pk: 175
+  fields:
+    text: reksis_dosbing.keyword
+    
+- model: reksis_dosbing.keyword
+  pk: 176
+  fields:
+    text: karbon monoksida        
+    
+- model: reksis_dosbing.keyword
+  pk: 177
+  fields:
+    text: beasiswa
+    
+- model: reksis_dosbing.keyword
+  pk: 178
+  fields:
+    text: SIFS
+    
+- model: reksis_dosbing.keyword
+  pk: 179
+  fields:
+    text: framework django
+    
+- model: reksis_dosbing.keyword
+  pk: 180
+  fields:
+    text: gadget
+    
+- model: reksis_dosbing.keyword
+  pk: 181
+  fields:
+    text: sistem pendukung keputusan 
+    
+- model: reksis_dosbing.keyword
+  pk: 182
+  fields:
+    text: reksis_dosbing.keyword
+    
+- model: reksis_dosbing.keyword
+  pk: 183
+  fields:
+    text: SPK
+      
+ 
+    
+- model: reksis_dosbing.keyword
+  pk: 184
+  fields:
+    text: preeschool
+    
+- model: reksis_dosbing.keyword
+  pk: 185
+  fields:
+    text: mathematics
+    
+- model: reksis_dosbing.keyword
+  pk: 186
+  fields:
+    text: KODU
+    
+- model: reksis_dosbing.keyword
+  pk: 187
+  fields:
+    text: unity 3d
+    
+- model: reksis_dosbing.keyword
+  pk: 188
+  fields:
+    text: construct 2 
+    
+- model: reksis_dosbing.keyword
+  pk: 189
+  fields:
+    text: multimedia
+    
+- model: reksis_dosbing.keyword
+  pk: 190
+  fields:
+    text: adobe flash cs6
+    
+- model: reksis_dosbing.keyword
+  pk: 191
+  fields:
+    text: javanese language learning
+    
+- model: reksis_dosbing.keyword
+  pk: 192
+  fields:
+    text: games
+    
+- model: reksis_dosbing.keyword
+  pk: 193
+  fields:
+    text: character
+    
+- model: reksis_dosbing.keyword
+  pk: 194
+  fields:
+    text: emotion
+    
+- model: reksis_dosbing.keyword
+  pk: 195
+  fields:
+    text: reward
+    
+- model: reksis_dosbing.keyword
+  pk: 196
+  fields:
+    text: preschoolers
+    
+- model: reksis_dosbing.keyword
+  pk: 197
+  fields:
+    text: educational games
+    
+- model: reksis_dosbing.keyword
+  pk: 198
+  fields:
+    text: MAZE
+    
+- model: reksis_dosbing.keyword
+  pk: 199
+  fields:
+    text: endah_educational gamesejarah islam masuk indonesia
+    
+- model: reksis_dosbing.keyword
+  pk: 200
+  fields:
+    text: GAME
+    
+- model: reksis_dosbing.keyword
+  pk: 201
+  fields:
+    text: multiplatform
+    
+- model: reksis_dosbing.keyword
+  pk: 202
+  fields:
+    text: construct 2
+    
+- model: reksis_dosbing.keyword
+  pk: 203
+  fields:
+    text: augmented reality
+    
+- model: reksis_dosbing.keyword
+  pk: 204
+  fields:
+    text: edugame
+    
+- model: reksis_dosbing.keyword
+  pk: 205
+  fields:
+    text: senjata tradisional indonesia
+    
+- model: reksis_dosbing.keyword
+  pk: 206
+  fields:
+    text: game edukasi
+    
+- model: reksis_dosbing.keyword
+  pk: 207
+  fields:
+    text: anak tunagrahita
+    
+- model: reksis_dosbing.keyword
+  pk: 208
+  fields:
+    text: unity3d
+    
+- model: reksis_dosbing.keyword
+  pk: 209
+  fields:
+    text: kinect xbox 360
+    
+- model: reksis_dosbing.keyword
+  pk: 210
+  fields:
+    text: audacity
+    
+- model: reksis_dosbing.keyword
+  pk: 211
+  fields:
+    text: educational game
+    
+- model: reksis_dosbing.keyword
+  pk: 212
+  fields:
+    text: organ tubuh manusia
+    
+- model: reksis_dosbing.keyword
+  pk: 213
+  fields:
+    text: agile
+    
+- model: reksis_dosbing.keyword
+  pk: 214
+  fields:
+    text: risks
+    
+- model: reksis_dosbing.keyword
+  pk: 215
+  fields:
+    text: risk mitigation
+    
+- model: reksis_dosbing.keyword
+  pk: 216
+  fields:
+    text: global
+    
+- model: reksis_dosbing.keyword
+  pk: 217
+  fields:
+    text: software development
+    
+- model: reksis_dosbing.keyword
+  pk: 218
+  fields:
+    text: software engineering
+    
+- model: reksis_dosbing.keyword
+  pk: 219
+  fields:
+    text: cognitive game
+    
+- model: reksis_dosbing.keyword
+  pk: 220
+  fields:
+    text: prototype
+    
+- model: reksis_dosbing.keyword
+  pk: 221
+  fields:
+    text: narkoba
+    
+- model: reksis_dosbing.keyword
+  pk: 222
+  fields:
+    text: computer
+    
+- model: reksis_dosbing.keyword
+  pk: 223
+  fields:
+    text: multi-platform
+    
+- model: reksis_dosbing.keyword
+  pk: 224
+  fields:
+    text: aplikasi
+    
+- model: reksis_dosbing.keyword
+  pk: 225
+  fields:
+    text: sistem
+    
+- model: reksis_dosbing.keyword
+  pk: 226
+  fields:
+    text: administrasi laboratorium
+    
+- model: reksis_dosbing.keyword
+  pk: 227
+  fields:
+    text: mitigasi
+    
+- model: reksis_dosbing.keyword
+  pk: 228
+  fields:
+    text: kebakaran
+    
+- model: reksis_dosbing.keyword
+  pk: 229
+  fields:
+    text: indonesia
+    
+- model: reksis_dosbing.keyword
+  pk: 230
+  fields:
+    text: tari tradisiona
+    
+- model: reksis_dosbing.keyword
+  pk: 231
+  fields:
+    text: pollution
+    
+- model: reksis_dosbing.keyword
+  pk: 232
+  fields:
+    text: virtual reality
+    
+- model: reksis_dosbing.keyword
+  pk: 233
+  fields:
+    text: usability test
+    
+- model: reksis_dosbing.keyword
+  pk: 234
+  fields:
+    text: waste awareness
+    
+- model: reksis_dosbing.keyword
+  pk: 235
+  fields:
+    text: construct
+    
+- model: reksis_dosbing.keyword
+  pk: 236
+  fields:
+    text: history
+    
+- model: reksis_dosbing.keyword
+  pk: 237
+  fields:
+    text: khulafaurrasyidin
+    
+- model: reksis_dosbing.keyword
+  pk: 238
+  fields:
+    text: multi platform
+    
+- model: reksis_dosbing.keyword
+  pk: 239
+  fields:
+    text: motoric and mental development in early
+    
+- model: reksis_dosbing.keyword
+  pk: 240
+  fields:
+    text: childhood
+    
+- model: reksis_dosbing.keyword
+  pk: 241
+  fields:
+    text: endah_educational gamear edugame
+    
+- model: reksis_dosbing.keyword
+  pk: 242
+  fields:
+    text: expert judgement
+    
+- model: reksis_dosbing.keyword
+  pk: 243
+  fields:
+    text: usability
+    
+- model: reksis_dosbing.keyword
+  pk: 244
+  fields:
+    text: children
+    
+- model: reksis_dosbing.keyword
+  pk: 245
+  fields:
+    text: learning media
+    
+- model: reksis_dosbing.keyword
+  pk: 246
+  fields:
+    text: bahasa
+    
+- model: reksis_dosbing.keyword
+  pk: 247
+  fields:
+    text: pembelajaran
+    
+- model: reksis_dosbing.keyword
+  pk: 248
+  fields:
+    text: popular games
+    
+- model: reksis_dosbing.keyword
+  pk: 249
+  fields:
+    text: cognitive concept
+    
+- model: reksis_dosbing.keyword
+  pk: 250
+  fields:
+    text: inventaris
+    
+- model: reksis_dosbing.keyword
+  pk: 251
+  fields:
+    text: kopendik wonogiri
+    
+- model: reksis_dosbing.keyword
+  pk: 252
+  fields:
+    text: sistem informasi
+    
+- model: reksis_dosbing.keyword
+  pk: 253
+  fields:
+    text: eeducational game
+    
+- model: reksis_dosbing.keyword
+  pk: 254
+  fields:
+    text: dyslexia
+    
+- model: reksis_dosbing.keyword
+  pk: 255
+  fields:
+    text: kinect
+    
+- model: reksis_dosbing.keyword
+  pk: 256
+  fields:
+    text: computational thinking
+    
+- model: reksis_dosbing.keyword
+  pk: 257
+  fields:
+    text: ICT
+    
+- model: reksis_dosbing.keyword
+  pk: 258
+  fields:
+    text: cognitive stimulation
+    
+- model: reksis_dosbing.keyword
+  pk: 259
+  fields:
+    text: video game
+    
+- model: reksis_dosbing.keyword
+  pk: 260
+  fields:
+    text: endah_game developmentanthropomorphic
+    
+- model: reksis_dosbing.keyword
+  pk: 261
+  fields:
+    text: game character
+    
+- model: reksis_dosbing.keyword
+  pk: 262
+  fields:
+    text: anthropomorphism
+    
+- model: reksis_dosbing.keyword
+  pk: 263
+  fields:
+    text: preschool
+    
+- model: reksis_dosbing.keyword
+  pk: 264
+  fields:
+    text: cognitive video game
+    
+- model: reksis_dosbing.keyword
+  pk: 265
+  fields:
+    text: endah_educational gameaugmented reality
+    
+- model: reksis_dosbing.keyword
+  pk: 266
+  fields:
+    text: traditional dance
+    
+- model: reksis_dosbing.keyword
+  pk: 267
+  fields:
+    text: english language
+    
+- model: reksis_dosbing.keyword
+  pk: 268
+  fields:
+    text: elementary students
+    
+- model: reksis_dosbing.keyword
+  pk: 269
+  fields:
+    text: animation
+    
+- model: reksis_dosbing.keyword
+  pk: 270
+  fields:
+    text: motion graphic
+    
+- model: reksis_dosbing.keyword
+  pk: 271
+  fields:
+    text: public service advertisement
+    
+- model: reksis_dosbing.keyword
+  pk: 272
+  fields:
+    text: system usability scale
+    
+- model: reksis_dosbing.keyword
+  pk: 273
+  fields:
+    text: makanan tradisional
+    
+- model: reksis_dosbing.keyword
+  pk: 274
+  fields:
+    text: unity
+    
+- model: reksis_dosbing.keyword
+  pk: 275
+  fields:
+    text: vuforia
+    
+- model: reksis_dosbing.keyword
+  pk: 276
+  fields:
+    text: endah_educational gamemedia pembelajaran
+    
+- model: reksis_dosbing.keyword
+  pk: 277
+  fields:
+    text: bahasa jawa
+    
+- model: reksis_dosbing.keyword
+  pk: 278
+  fields:
+    text: gunung
+    
+- model: reksis_dosbing.keyword
+  pk: 279
+  fields:
+    text: edukasi
+    
+- model: reksis_dosbing.keyword
+  pk: 280
+  fields:
+    text: video games
+    
+- model: reksis_dosbing.keyword
+  pk: 281
+  fields:
+    text: edugame pergaulan bebas
+    
+- model: reksis_dosbing.keyword
+  pk: 282
+  fields:
+    text: sejarah islam masuk indonesia
+    
+- model: reksis_dosbing.keyword
+  pk: 283
+  fields:
+    text: pelacakan wajah
+    
+- model: reksis_dosbing.keyword
+  pk: 284
+  fields:
+    text: metode haar
+    
+- model: reksis_dosbing.keyword
+  pk: 285
+  fields:
+    text: pengenalan wajah
+    
+- model: reksis_dosbing.keyword
+  pk: 286
+  fields:
+    text: perbandingan histgram
+    
+- model: reksis_dosbing.keyword
+  pk: 287
+  fields:
+    text: haar algorithm
+    
+- model: reksis_dosbing.keyword
+  pk: 288
+  fields:
+    text: face tracking
+    
+- model: reksis_dosbing.keyword
+  pk: 289
+  fields:
+    text: face recognition
+    
+- model: reksis_dosbing.keyword
+  pk: 290
+  fields:
+    text: histogram comparison
+    
+- model: reksis_dosbing.keyword
+  pk: 291
+  fields:
+    text: metode waterfall
+    
+- model: reksis_dosbing.keyword
+  pk: 292
+  fields:
+    text: pelanggan
+    
+- model: reksis_dosbing.keyword
+  pk: 293
+  fields:
+    text: game development
+    
+- model: reksis_dosbing.keyword
+  pk: 294
+  fields:
+    text: gamelan
+    
+- model: reksis_dosbing.keyword
+  pk: 295
+  fields:
+    text: DESA
+    
+- model: reksis_dosbing.keyword
+  pk: 296
+  fields:
+    text: sistem informansi
+    
+- model: reksis_dosbing.keyword
+  pk: 297
+  fields:
+    text: waterfall
+    
+- model: reksis_dosbing.keyword
+  pk: 298
+  fields:
+    text: DATA
+    
+- model: reksis_dosbing.keyword
+  pk: 299
+  fields:
+    text: informasi
+    
+- model: reksis_dosbing.keyword
+  pk: 300
+  fields:
+    text: sekolah
+    
+- model: reksis_dosbing.keyword
+  pk: 301
+  fields:
+    text: WEB
+    
+- model: reksis_dosbing.keyword
+  pk: 302
+  fields:
+    text: intelligent agents
+    
+- model: reksis_dosbing.keyword
+  pk: 303
+  fields:
+    text: SSCT
+    
+- model: reksis_dosbing.keyword
+  pk: 304
+  fields:
+    text: JADE
+    
+- model: reksis_dosbing.keyword
+  pk: 305
+  fields:
+    text: prometheus
+    
+- model: reksis_dosbing.keyword
+  pk: 306
+  fields:
+    text: summary
+    
+- model: reksis_dosbing.keyword
+  pk: 307
+  fields:
+    text: sistem informasi produksi
+    
+- model: reksis_dosbing.keyword
+  pk: 308
+  fields:
+    text: UMKM
+    
+- model: reksis_dosbing.keyword
+  pk: 309
+  fields:
+    text: google map api
+    
+- model: reksis_dosbing.keyword
+  pk: 310
+  fields:
+    text: location based service
+          
+    
+- model: reksis_dosbing.keyword
+  pk: 311
+  fields:
+    text: GPS
+    
+- model: reksis_dosbing.keyword
+  pk: 312
+  fields:
+    text: rumah sakit
+    
+- model: reksis_dosbing.keyword
+  pk: 313
+  fields:
+    text: administrasi
+    
+- model: reksis_dosbing.keyword
+  pk: 314
+  fields:
+    text: surat menyurat
+    
+- model: reksis_dosbing.keyword
+  pk: 315
+  fields:
+    text: presensi
+    
+- model: reksis_dosbing.keyword
+  pk: 316
+  fields:
+    text: mahasiswa
+    
+- model: reksis_dosbing.keyword
+  pk: 317
+  fields:
+    text: SCAN
+    
+- model: reksis_dosbing.keyword
+  pk: 318
+  fields:
+    text: beras miskin
+    
+- model: reksis_dosbing.keyword
+  pk: 319
+  fields:
+    text: metode saw
+    
+- model: reksis_dosbing.keyword
+  pk: 320
+  fields:
+    text: metode topsis
+    
+- model: reksis_dosbing.keyword
+  pk: 321
+  fields:
+    text: sistem pendukung keputusan
+    
+- model: reksis_dosbing.keyword
+  pk: 322
+  fields:
+    text: kuliner
+    
+- model: reksis_dosbing.keyword
+  pk: 323
+  fields:
+    text: oleh-oleh
+    
+- model: reksis_dosbing.keyword
+  pk: 324
+  fields:
+    text: pencarian
+    
+- model: reksis_dosbing.keyword
+  pk: 325
+  fields:
+    text: tawangmangu
+    
+- model: reksis_dosbing.keyword
+  pk: 326
+  fields:
+    text: BUKU
+    
+- model: reksis_dosbing.keyword
+  pk: 327
+  fields:
+    text: sirkulasi
+    
+- model: reksis_dosbing.keyword
+  pk: 328
+  fields:
+    text: teknologi informasi
+    
+- model: reksis_dosbing.keyword
+  pk: 329
+  fields:
+    text: dakwah
+    
+- model: reksis_dosbing.keyword
+  pk: 330
+  fields:
+    text: ilmu pengetahuan alam
+    
+- model: reksis_dosbing.keyword
+  pk: 331
+  fields:
+    text: sekolah dasar
+    
+- model: reksis_dosbing.keyword
+  pk: 332
+  fields:
+    text: covid-19
+    
+- model: reksis_dosbing.keyword
+  pk: 333
+  fields:
+    text: lembaga pendidikan
+    
+- model: reksis_dosbing.keyword
+  pk: 334
+  fields:
+    text: komputer
+    
+- model: reksis_dosbing.keyword
+  pk: 335
+  fields:
+    text: peta konsep
+    
+- model: reksis_dosbing.keyword
+  pk: 336
+  fields:
+    text: strategi pembelajaran
+    
+- model: reksis_dosbing.keyword
+  pk: 337
+  fields:
+    text: siswa baru
+    
+- model: reksis_dosbing.keyword
+  pk: 338
+  fields:
+    text: balita
+    
+- model: reksis_dosbing.keyword
+  pk: 339
+  fields:
+    text: penimbangan
+    
+- model: reksis_dosbing.keyword
+  pk: 340
+  fields:
+    text: sistem informas
+    
+- model: reksis_dosbing.keyword
+  pk: 341
+  fields:
+    text: aisyiyah
+    
+- model: reksis_dosbing.keyword
+  pk: 342
+  fields:
+    text: keuangan
+    
+- model: reksis_dosbing.keyword
+  pk: 343
+  fields:
+    text: pondok pesantren
+    
+- model: reksis_dosbing.keyword
+  pk: 344
+  fields:
+    text: santri
+    
+- model: reksis_dosbing.keyword
+  pk: 345
+  fields:
+    text: absensi
+    
+- model: reksis_dosbing.keyword
+  pk: 346
+  fields:
+    text: framework codeigniter
+    
+- model: reksis_dosbing.keyword
+  pk: 347
+  fields:
+    text: laboratorium
+    
+- model: reksis_dosbing.keyword
+  pk: 348
+  fields:
+    text: GAJI
+    
+- model: reksis_dosbing.keyword
+  pk: 349
+  fields:
+    text: sistem penggajian
+    
+- model: reksis_dosbing.keyword
+  pk: 350
+  fields:
+    text: transaksi
+    
+- model: reksis_dosbing.keyword
+  pk: 351
+  fields:
+    text: sukoharjo
+    
+- model: reksis_dosbing.keyword
+  pk: 352
+  fields:
+    text: wisata
+    
+- model: reksis_dosbing.keyword
+  pk: 353
+  fields:
+    text: pendapatan
+    
+- model: reksis_dosbing.keyword
+  pk: 354
+  fields:
+    text: sistem informasi pendapatan
+    
+- model: reksis_dosbing.keyword
+  pk: 355
+  fields:
+    text: pembayaran spp
+    
+- model: reksis_dosbing.keyword
+  pk: 356
+  fields:
+    text: desa
+    
+- model: reksis_dosbing.keyword
+  pk: 357
+  fields:
+    text: pencatatan kependudukan
+    
+- model: reksis_dosbing.keyword
+  pk: 358
+  fields:
+    text: mobile
+    
+- model: reksis_dosbing.keyword
+  pk: 359
+  fields:
+    text: siklus hidup hewan
+    
+- model: reksis_dosbing.keyword
+  pk: 360
+  fields:
+    text: event
+    
+- model: reksis_dosbing.keyword
+  pk: 361
+  fields:
+    text: konferensi
+    
+- model: reksis_dosbing.keyword
+  pk: 362
+  fields:
+    text: kesehatan
+    
+- model: reksis_dosbing.keyword
+  pk: 363
+  fields:
+    text: tanaman obat
+    
+- model: reksis_dosbing.keyword
+  pk: 364
+  fields:
+    text: tradisional
+    
+- model: reksis_dosbing.keyword
+  pk: 365
+  fields:
+    text: film pendek
+    
+- model: reksis_dosbing.keyword
+  pk: 366
+  fields:
+    text: kompetisi film
+    
+- model: reksis_dosbing.keyword
+  pk: 367
+  fields:
+    text: hewan langka
+    
+- model: reksis_dosbing.keyword
+  pk: 368
+  fields:
+    text: siswa
+    
+- model: reksis_dosbing.keyword
+  pk: 369
+  fields:
+    text: data pengurus
+    
+- model: reksis_dosbing.keyword
+  pk: 370
+  fields:
+    text: identitas
+    
+- model: reksis_dosbing.keyword
+  pk: 371
+  fields:
+    text: sidik jari
+    
+- model: reksis_dosbing.keyword
+  pk: 372
+  fields:
+    text: google maps api
+    
+- model: reksis_dosbing.keyword
+  pk: 373
+  fields:
+    text: hotel
+    
+- model: reksis_dosbing.keyword
+  pk: 374
+  fields:
+    text: pariwisata
+    
+- model: reksis_dosbing.keyword
+  pk: 375
+  fields:
+    text: kehilangan barang
+    
+- model: reksis_dosbing.keyword
+  pk: 376
+  fields:
+    text: pendidikan
+    
+- model: reksis_dosbing.keyword
+  pk: 377
+  fields:
+    text: portal
+    
+- model: reksis_dosbing.keyword
+  pk: 378
+  fields:
+    text: taman kanak-kanak
+    
+- model: reksis_dosbing.keyword
+  pk: 379
+  fields:
+    text: organisasi
+    
+- model: reksis_dosbing.keyword
+  pk: 380
+  fields:
+    text: surat
+    
+- model: reksis_dosbing.keyword
+  pk: 381
+  fields:
+    text: algoritma c4.5
+    
+- model: reksis_dosbing.keyword
+  pk: 382
+  fields:
+    text: klasifikasi
+    
+- model: reksis_dosbing.keyword
+  pk: 383
+  fields:
+    text: penjurusan
+    
+- model: reksis_dosbing.keyword
+  pk: 384
+  fields:
+    text: footstep imaging
+    
+- model: reksis_dosbing.keyword
+  pk: 385
+  fields:
+    text: GAIT
+    
+- model: reksis_dosbing.keyword
+  pk: 386
+  fields:
+    text: intelligent carpet
+    
+- model: reksis_dosbing.keyword
+  pk: 387
+  fields:
+    text: parallel center of mass algorithm
+      
+- model: reksis_dosbing.keyword
+  pk: 388
+  fields:
+    text: photonic guidedpath tomography
+            
+      
+- model: reksis_dosbing.keyword
+  pk: 389
+  fields:
+    text: plastic optical fiber
+    
+- model: reksis_dosbing.keyword
+  pk: 390
+  fields:
+    text: unit kegiatan mahasiswa
+      
+    
+- model: reksis_dosbing.keyword
+  pk: 391
+  fields:
+    text: imaging
+    
+- model: reksis_dosbing.keyword
+  pk: 392
+  fields:
+    text: guided-path tomography
+    
+- model: reksis_dosbing.keyword
+  pk: 393
+  fields:
+    text: inverse problem
+    
+- model: reksis_dosbing.keyword
+  pk: 394
+  fields:
+    text: hough transform
+    
+- model: reksis_dosbing.keyword
+  pk: 395
+  fields:
+    text: fibre optics
+    
+- model: reksis_dosbing.keyword
+  pk: 396
+  fields:
+    text: parallel processing
+    
+- model: reksis_dosbing.keyword
+  pk: 397
+  fields:
+    text: FPGA
+    
+- model: reksis_dosbing.keyword
+  pk: 398
+  fields:
+    text: optical fibers 
+    
+- model: reksis_dosbing.keyword
+  pk: 399
+  fields:
+    text: optical fiber sensors 
+    
+- model: reksis_dosbing.keyword
+  pk: 400
+  fields:
+    text: image sensors 
+    
+- model: reksis_dosbing.keyword
+  pk: 401
+  fields:
+    text: sensitivity 
+    
+- model: reksis_dosbing.keyword
+  pk: 402
+  fields:
+    text: mechanical sensors
+    
+- model: reksis_dosbing.keyword
+  pk: 403
+  fields:
+    text: sensing
+    
+- model: reksis_dosbing.keyword
+  pk: 404
+  fields:
+    text: hujan
+    
+- model: reksis_dosbing.keyword
+  pk: 405
+  fields:
+    text: pertanian
+    
+- model: reksis_dosbing.keyword
+  pk: 406
+  fields:
+    text: raspberry pi3
+    
+- model: reksis_dosbing.keyword
+  pk: 407
+  fields:
+    text: telegram
+    
+- model: reksis_dosbing.keyword
+  pk: 408
+  fields:
+    text: API
+    
+- model: reksis_dosbing.keyword
+  pk: 409
+  fields:
+    text: social media
+    
+- model: reksis_dosbing.keyword
+  pk: 410
+  fields:
+    text: voice recognition
+    
+- model: reksis_dosbing.keyword
+  pk: 411
+  fields:
+    text: decision tree
+    
+- model: reksis_dosbing.keyword
+  pk: 412
+  fields:
+    text: blackbox
+    
+- model: reksis_dosbing.keyword
+  pk: 413
+  fields:
+    text: user acceptance
+    
+- model: reksis_dosbing.keyword
+  pk: 414
+  fields:
+    text: diagnosa
+    
+- model: reksis_dosbing.keyword
+  pk: 415
+  fields:
+    text: jendela blackman
+    
+- model: reksis_dosbing.keyword
+  pk: 416
+  fields:
+    text: inventori
+    
+- model: reksis_dosbing.keyword
+  pk: 417
+  fields:
+    text: logika fuzi
+    
+- model: reksis_dosbing.keyword
+  pk: 418
+  fields:
+    text: sistem pintu otomatis
+    
+- model: reksis_dosbing.keyword
+  pk: 419
+  fields:
+    text: CMS
+    
+- model: reksis_dosbing.keyword
+  pk: 420
+  fields:
+    text: FUZI
+    
+- model: reksis_dosbing.keyword
+  pk: 421
+  fields:
+    text: PLC
+    
+- model: reksis_dosbing.keyword
+  pk: 422
+  fields:
+    text: barcode
+    
+- model: reksis_dosbing.keyword
+  pk: 423
+  fields:
+    text: e-government
+    
+- model: reksis_dosbing.keyword
+  pk: 424
+  fields:
+    text: elearning
+    
+- model: reksis_dosbing.keyword
+  pk: 425
+  fields:
+    text: toefl
+    
+- model: reksis_dosbing.keyword
+  pk: 426
+  fields:
+    text: analysis of covariance
+    
+- model: reksis_dosbing.keyword
+  pk: 427
+  fields:
+    text: efektivitas
+    
+- model: reksis_dosbing.keyword
+  pk: 428
+  fields:
+    text: analisis swot
+    
+- model: reksis_dosbing.keyword
+  pk: 429
+  fields:
+    text: aplikasi website
+    
+- model: reksis_dosbing.keyword
+  pk: 430
+  fields:
+    text: SPA
+    
+- model: reksis_dosbing.keyword
+  pk: 431
+  fields:
+    text: UKM
+    
+- model: reksis_dosbing.keyword
+  pk: 432
+  fields:
+    text: dekorasi
+    
+- model: reksis_dosbing.keyword
+  pk: 433
+  fields:
+    text: interior
+    
+- model: reksis_dosbing.keyword
+  pk: 434
+  fields:
+    text: marker
+    
+- model: reksis_dosbing.keyword
+  pk: 435
+  fields:
+    text: structure and written expression
+    
+- model: reksis_dosbing.keyword
+  pk: 436
+  fields:
+    text: pembelajaran berbasis web
+    
+- model: reksis_dosbing.keyword
+  pk: 437
+  fields:
+    text: e-learning
+    
+- model: reksis_dosbing.keyword
+  pk: 438
+  fields:
+    text: ancova
+    
+- model: reksis_dosbing.keyword
+  pk: 439
+  fields:
+    text: berg balance scale
+    
+- model: reksis_dosbing.keyword
+  pk: 440
+  fields:
+    text: keseimbangan
+    
+- model: reksis_dosbing.keyword
+  pk: 441
+  fields:
+    text: lanjut usia
+    
+- model: reksis_dosbing.keyword
+  pk: 442
+  fields:
+    text: adobe flash
+    
+- model: reksis_dosbing.keyword
+  pk: 443
+  fields:
+    text: swfkit pro
+    
+- model: reksis_dosbing.keyword
+  pk: 444
+  fields:
+    text: macromedia flash 8
+    
+- model: reksis_dosbing.keyword
+  pk: 445
+  fields:
+    text: javafx
+    
+- model: reksis_dosbing.keyword
+  pk: 446
+  fields:
+    text: web based application
+    
+- model: reksis_dosbing.keyword
+  pk: 447
+  fields:
+    text: MUTE
+    
+- model: reksis_dosbing.keyword
+  pk: 448
+  fields:
+    text: DEAF
+    
+- model: reksis_dosbing.keyword
+  pk: 449
+  fields:
+    text: gesture
+    
+- model: reksis_dosbing.keyword
+  pk: 450
+  fields:
+    text: language
+    
+- model: reksis_dosbing.keyword
+  pk: 451
+  fields:
+    text: commumication
+    
+- model: reksis_dosbing.keyword
+  pk: 452
+  fields:
+    text: use case
+    
+- model: reksis_dosbing.keyword
+  pk: 453
+  fields:
+    text: tajwid
+    
+- model: reksis_dosbing.keyword
+  pk: 454
+  fields:
+    text: panduan elektronis
+    
+- model: reksis_dosbing.keyword
+  pk: 455
+  fields:
+    text: macromedia flash
+    
+- model: reksis_dosbing.keyword
+  pk: 456
+  fields:
+    text: e?learning
+    
+- model: reksis_dosbing.keyword
+  pk: 457
+  fields:
+    text: motor induksi
+    
+- model: reksis_dosbing.keyword
+  pk: 458
+  fields:
+    text: matematika
+    
+- model: reksis_dosbing.keyword
+  pk: 459
+  fields:
+    text: CAI
+    
+- model: reksis_dosbing.keyword
+  pk: 460
+  fields:
+    text: plc modicon
+    
+- model: reksis_dosbing.keyword
+  pk: 461
+  fields:
+    text: tsx micro 3722
+    
+- model: reksis_dosbing.keyword
+  pk: 462
+  fields:
+    text: modul pembelajaran
+    
+- model: reksis_dosbing.keyword
+  pk: 463
+  fields:
+    text: partisi database
+    
+- model: reksis_dosbing.keyword
+  pk: 464
+  fields:
+    text: database transaksi
+    
+- model: reksis_dosbing.keyword
+  pk: 465
+  fields:
+    text: data preprocessing
+    
+- model: reksis_dosbing.keyword
+  pk: 466
+  fields:
+    text: visual programming
+    
+- model: reksis_dosbing.keyword
+  pk: 467
+  fields:
+    text: game education
+    
+- model: reksis_dosbing.keyword
+  pk: 468
+  fields:
+    text: set-valued database
+    
+- model: reksis_dosbing.keyword
+  pk: 469
+  fields:
+    text: data anonymization
+    
+- model: reksis_dosbing.keyword
+  pk: 470
+  fields:
+    text: sibling suppression
+    
+- model: reksis_dosbing.keyword
+  pk: 471
+  fields:
+    text: adversary knowledge
+    
+- model: reksis_dosbing.keyword
+  pk: 472
+  fields:
+    text: cholesterol levels
+    
+- model: reksis_dosbing.keyword
+  pk: 473
+  fields:
+    text: gain ratio
+    
+- model: reksis_dosbing.keyword
+  pk: 474
+  fields:
+    text: gini index
+    
+- model: reksis_dosbing.keyword
+  pk: 475
+  fields:
+    text: information gain
+    
+- model: reksis_dosbing.keyword
+  pk: 476
+  fields:
+    text: pemilahan sampah
+    
+- model: reksis_dosbing.keyword
+  pk: 477
+  fields:
+    text: hiding personal tendency
+    
+- model: reksis_dosbing.keyword
+  pk: 478
+  fields:
+    text: swapping technique
+    
+- model: reksis_dosbing.keyword
+  pk: 479
+  fields:
+    text: pengenalan satwa
+    
+- model: reksis_dosbing.keyword
+  pk: 480
+  fields:
+    text: animasi
+    
+- model: reksis_dosbing.keyword
+  pk: 481
+  fields:
+    text: PAUD
+    
+- model: reksis_dosbing.keyword
+  pk: 482
+  fields:
+    text: database
+    
+- model: reksis_dosbing.keyword
+  pk: 483
+  fields:
+    text: frequent itemsets
+    
+- model: reksis_dosbing.keyword
+  pk: 484
+  fields:
+    text: sensitive itemsets hiding
+    
+- model: reksis_dosbing.keyword
+  pk: 485
+  fields:
+    text: parallel computing
+    
+- model: reksis_dosbing.keyword
+  pk: 486
+  fields:
+    text: privacy preserving data mining
+    
+- model: reksis_dosbing.keyword
+  pk: 487
+  fields:
+    text: sensitive information
+    
+- model: reksis_dosbing.keyword
+  pk: 488
+  fields:
+    text: transaction database
+    
+- model: reksis_dosbing.keyword
+  pk: 489
+  fields:
+    text: database publishing
+    
+- model: reksis_dosbing.keyword
+  pk: 490
+  fields:
+    text: identity attack
+    
+- model: reksis_dosbing.keyword
+  pk: 491
+  fields:
+    text: weighted scoring method
+    
+- model: reksis_dosbing.keyword
+  pk: 492
+  fields:
+    text: transaction databases
+    
+- model: reksis_dosbing.keyword
+  pk: 493
+  fields:
+    text: data privacy
+    
+- model: reksis_dosbing.keyword
+  pk: 494
+  fields:
+    text: publishing
+    
+- model: reksis_dosbing.keyword
+  pk: 495
+  fields:
+    text: perturbation methods
+    
+- model: reksis_dosbing.keyword
+  pk: 496
+  fields:
+    text: business
+    
+- model: reksis_dosbing.keyword
+  pk: 497
+  fields:
+    text: distortion
+    
+- model: reksis_dosbing.keyword
+  pk: 498
+  fields:
+    text: set-valued database publishing
+    
+- model: reksis_dosbing.keyword
+  pk: 499
+  fields:
+    text: similarity
+    
+- model: reksis_dosbing.keyword
+  pk: 500
+  fields:
+    text: data swapping 
+    
+- model: reksis_dosbing.keyword
+  pk: 501
+  fields:
+    text: vehicular ad hoc network
+    
+- model: reksis_dosbing.keyword
+  pk: 502
+  fields:
+    text: advertisement routing
+    
+- model: reksis_dosbing.keyword
+  pk: 503
+  fields:
+    text: mobile infrastructure base routing
+    
+- model: reksis_dosbing.keyword
+  pk: 504
+  fields:
+    text: wireless infrastructure
+    
+- model: reksis_dosbing.keyword
+  pk: 505
+  fields:
+    text: multiple linear regression
+    
+- model: reksis_dosbing.keyword
+  pk: 506
+  fields:
+    text: recomender system
+    
+- model: reksis_dosbing.keyword
+  pk: 507
+  fields:
+    text: gangguan kesehatan anak
+    
+- model: reksis_dosbing.keyword
+  pk: 508
+  fields:
+    text: regresi linier berganda
+    
+- model: reksis_dosbing.keyword
+  pk: 509
+  fields:
+    text: sistem rekomendasi
+    
+- model: reksis_dosbing.keyword
+  pk: 510
+  fields:
+    text: smartphone
+    
+- model: reksis_dosbing.keyword
+  pk: 511
+  fields:
+    text: tanaman padi
+    
+- model: reksis_dosbing.keyword
+  pk: 512
+  fields:
+    text: era global
+    
+- model: reksis_dosbing.keyword
+  pk: 513
+  fields:
+    text: pembelajaran matematika
+    
+- model: reksis_dosbing.keyword
+  pk: 514
+  fields:
+    text: pendidikan matematika
+    
+- model: reksis_dosbing.keyword
+  pk: 515
+  fields:
+    text: mathematics textbooks
+    
+- model: reksis_dosbing.keyword
+  pk: 516
+  fields:
+    text: indonesian curriculum 2013
+    
+- model: reksis_dosbing.keyword
+  pk: 517
+  fields:
+    text: PISA
+    
+- model: reksis_dosbing.keyword
+  pk: 518
+  fields:
+    text: multimedia pembelajaran
+    
+- model: reksis_dosbing.keyword
+  pk: 519
+  fields:
+    text: mathematics anxiety
+    
+- model: reksis_dosbing.keyword
+  pk: 520
+  fields:
+    text: MBTI
+    
+- model: reksis_dosbing.keyword
+  pk: 521
+  fields:
+    text: personality types
+    
+- model: reksis_dosbing.keyword
+  pk: 522
+  fields:
+    text: bayesian networks
+    
+- model: reksis_dosbing.keyword
+  pk: 523
+  fields:
+    text: critical thingking
+    
+- model: reksis_dosbing.keyword
+  pk: 524
+  fields:
+    text: mathematics literacy
+    
+- model: reksis_dosbing.keyword
+  pk: 525
+  fields:
+    text: mathematics textbook
+    
+- model: reksis_dosbing.keyword
+  pk: 526
+  fields:
+    text: pisa’s
+    
+- model: reksis_dosbing.keyword
+  pk: 527
+  fields:
+    text: framework
+    
+- model: reksis_dosbing.keyword
+  pk: 528
+  fields:
+    text: and problem solving
+    
+- model: reksis_dosbing.keyword
+  pk: 529
+  fields:
+    text: creative problem solving
+    
+- model: reksis_dosbing.keyword
+  pk: 530
+  fields:
+    text: kemampuan komunikasi matematis
+    
+- model: reksis_dosbing.keyword
+  pk: 531
+  fields:
+    text: pemahaman konsep
+    
+- model: reksis_dosbing.keyword
+  pk: 532
+  fields:
+    text: mathematical literacy
+    
+- model: reksis_dosbing.keyword
+  pk: 533
+  fields:
+    text: change and
+    
+- model: reksis_dosbing.keyword
+  pk: 534
+  fields:
+    text: relationship
+    
+- model: reksis_dosbing.keyword
+  pk: 535
+  fields:
+    text: pisa levels
+    
+- model: reksis_dosbing.keyword
+  pk: 536
+  fields:
+    text: geometric
+    
+- model: reksis_dosbing.keyword
+  pk: 537
+  fields:
+    text: mathematics learning
+    
+- model: reksis_dosbing.keyword
+  pk: 538
+  fields:
+    text: transformation
+    
+- model: reksis_dosbing.keyword
+  pk: 539
+  fields:
+    text: ilmu matematika
+    
+- model: reksis_dosbing.keyword
+  pk: 540
+  fields:
+    text: kriptosistem
+    
+- model: reksis_dosbing.keyword
+  pk: 541
+  fields:
+    text: invers kiri/kanan
+    
+- model: reksis_dosbing.keyword
+  pk: 542
+  fields:
+    text: left inverse
+    
+- model: reksis_dosbing.keyword
+  pk: 543
+  fields:
+    text: right inverse
+    
+- model: reksis_dosbing.keyword
+  pk: 544
+  fields:
+    text: public key cryptosystem
+    
+- model: reksis_dosbing.keyword
+  pk: 545
+  fields:
+    text: kemampuan
+    
+- model: reksis_dosbing.keyword
+  pk: 546
+  fields:
+    text: berfikir kritis
+    
+- model: reksis_dosbing.keyword
+  pk: 547
+  fields:
+    text: pemecahan masalah
+    
+- model: reksis_dosbing.keyword
+  pk: 548
+  fields:
+    text: bangun datar
+    
+- model: reksis_dosbing.keyword
+  pk: 549
+  fields:
+    text: matlab
+    
+- model: reksis_dosbing.keyword
+  pk: 550
+  fields:
+    text: matematika dasar
+    
+- model: reksis_dosbing.keyword
+  pk: 551
+  fields:
+    text: aljabar linear
+    
+- model: reksis_dosbing.keyword
+  pk: 552
+  fields:
+    text: membuat grafik
+    
+- model: reksis_dosbing.keyword
+  pk: 553
+  fields:
+    text: analisis data statistika
+    
+- model: reksis_dosbing.keyword
+  pk: 554
+  fields:
+    text: metode numerik
+    
+- model: reksis_dosbing.keyword
+  pk: 555
+  fields:
+    text: TAI
+    
+- model: reksis_dosbing.keyword
+  pk: 556
+  fields:
+    text: STAD
+    
+- model: reksis_dosbing.keyword
+  pk: 557
+  fields:
+    text: mathematical communication
+    
+- model: reksis_dosbing.keyword
+  pk: 558
+  fields:
+    text: mathematics learning outcomes
+    
+- model: reksis_dosbing.keyword
+  pk: 559
+  fields:
+    text: mobile learning
+    
+- model: reksis_dosbing.keyword
+  pk: 560
+  fields:
+    text: matrix operations
+    
+- model: reksis_dosbing.keyword
+  pk: 561
+  fields:
+    text: smart apps creator
+    
+- model: reksis_dosbing.keyword
+  pk: 562
+  fields:
+    text: attendance system
+    
+- model: reksis_dosbing.keyword
+  pk: 563
+  fields:
+    text: deep learning
+    
+- model: reksis_dosbing.keyword
+  pk: 564
+  fields:
+    text: classroom management
+    
+- model: reksis_dosbing.keyword
+  pk: 565
+  fields:
+    text: collaboration
+    
+- model: reksis_dosbing.keyword
+  pk: 566
+  fields:
+    text: communication
+    
+- model: reksis_dosbing.keyword
+  pk: 567
+  fields:
+    text: digital documentation
+    
+- model: reksis_dosbing.keyword
+  pk: 568
+  fields:
+    text: learning
+    
+- model: reksis_dosbing.keyword
+  pk: 569
+  fields:
+    text: smart class
+    
+- model: reksis_dosbing.keyword
+  pk: 570
+  fields:
+    text: model pisa
+    
+- model: reksis_dosbing.keyword
+  pk: 571
+  fields:
+    text: scientific literacy
+    
+- model: reksis_dosbing.keyword
+  pk: 572
+  fields:
+    text: creative thinking
+    
+- model: reksis_dosbing.keyword
+  pk: 573
+  fields:
+    text: critical thinking
+    
+- model: reksis_dosbing.keyword
+  pk: 574
+  fields:
+    text: attitude
+    
+- model: reksis_dosbing.keyword
+  pk: 575
+  fields:
+    text: HOTS
+    
+- model: reksis_dosbing.keyword
+  pk: 576
+  fields:
+    text: achievement
+    
+- model: reksis_dosbing.keyword
+  pk: 577
+  fields:
+    text: problem solving
+    
+- model: reksis_dosbing.keyword
+  pk: 578
+  fields:
+    text: and 21st century skill
+    
+- model: reksis_dosbing.keyword
+  pk: 579
+  fields:
+    text: penalaran matematis
+    
+- model: reksis_dosbing.keyword
+  pk: 580
+  fields:
+    text: persamaan linear dua variabel
+    
+- model: reksis_dosbing.keyword
+  pk: 581
+  fields:
+    text: soal cerita matematika
+    
+- model: reksis_dosbing.keyword
+  pk: 582
+  fields:
+    text: mathematical reasoning
+    
+- model: reksis_dosbing.keyword
+  pk: 583
+  fields:
+    text: hasil belajar matematika
+    
+- model: reksis_dosbing.keyword
+  pk: 584
+  fields:
+    text: kreativitas siswa
+    
+- model: reksis_dosbing.keyword
+  pk: 585
+  fields:
+    text: TGT
+    
+- model: reksis_dosbing.keyword
+  pk: 586
+  fields:
+    text: kedisiplinan belajar siswa
+    
+- model: reksis_dosbing.keyword
+  pk: 587
+  fields:
+    text: number head
+    
+- model: reksis_dosbing.keyword
+  pk: 588
+  fields:
+    text: together
+    
+- model: reksis_dosbing.keyword
+  pk: 589
+  fields:
+    text: teams games tournament
+    
+- model: reksis_dosbing.keyword
+  pk: 590
+  fields:
+    text: towards learning outcomes
+    
+- model: reksis_dosbing.keyword
+  pk: 591
+  fields:
+    text: serunai 
+    
+- model: reksis_dosbing.keyword
+  pk: 592
+  fields:
+    text: literasi matematis
+    
+- model: reksis_dosbing.keyword
+  pk: 593
+  fields:
+    text: soal pisa
+    
+- model: reksis_dosbing.keyword
+  pk: 594
+  fields:
+    text: dapic
+    
+- model: reksis_dosbing.keyword
+  pk: 595
+  fields:
+    text: pengelolaan 
+    
+- model: reksis_dosbing.keyword
+  pk: 596
+  fields:
+    text: e learning
+    
+- model: reksis_dosbing.keyword
+  pk: 597
+  fields:
+    text: e learning fisika 
+    
+- model: reksis_dosbing.keyword
+  pk: 598
+  fields:
+    text: karakter inti
+    
+- model: reksis_dosbing.keyword
+  pk: 599
+  fields:
+    text: klasifikasi dokumen
+    
+- model: reksis_dosbing.keyword
+  pk: 600
+  fields:
+    text: multinomial naive bayes
+    
+- model: reksis_dosbing.keyword
+  pk: 601
+  fields:
+    text: cryptosystem
+    
+- model: reksis_dosbing.keyword
+  pk: 602
+  fields:
+    text: algoritma genetika
+    
+- model: reksis_dosbing.keyword
+  pk: 603
+  fields:
+    text: aptitude treatment interaction
+    
+- model: reksis_dosbing.keyword
+  pk: 604
+  fields:
+    text: generalized inverses of matrices
+    
+- model: reksis_dosbing.keyword
+  pk: 605
+  fields:
+    text: public key
+    
+- model: reksis_dosbing.keyword
+  pk: 606
+  fields:
+    text: encryption
+    
+- model: reksis_dosbing.keyword
+  pk: 607
+  fields:
+    text: decryiption
+    
+- model: reksis_dosbing.keyword
+  pk: 608
+  fields:
+    text: math problems
+    
+- model: reksis_dosbing.keyword
+  pk: 609
+  fields:
+    text: text mining
+    
+- model: reksis_dosbing.keyword
+  pk: 610
+  fields:
+    text: sentiment analysis
+    
+- model: reksis_dosbing.keyword
+  pk: 611
+  fields:
+    text: SWOT
+    
+- model: reksis_dosbing.keyword
+  pk: 612
+  fields:
+    text: strategic planning
+    
+- model: reksis_dosbing.keyword
+  pk: 613
+  fields:
+    text: small and medium enterprise
+    
+- model: reksis_dosbing.keyword
+  pk: 614
+  fields:
+    text: SME
+    
+- model: reksis_dosbing.keyword
+  pk: 615
+  fields:
+    text: strategic management process
+    
+- model: reksis_dosbing.keyword
+  pk: 616
+  fields:
+    text: swot analysis
+    
+- model: reksis_dosbing.keyword
+  pk: 617
+  fields:
+    text: similaritas
+    
+- model: reksis_dosbing.keyword
+  pk: 618
+  fields:
+    text: kemiripan teks
+    
+- model: reksis_dosbing.keyword
+  pk: 619
+  fields:
+    text: sinonim
+    
+- model: reksis_dosbing.keyword
+  pk: 620
+  fields:
+    text: hiponim
+    
+- model: reksis_dosbing.keyword
+  pk: 621
+  fields:
+    text: bahasa indonesia
+    
+- model: reksis_dosbing.keyword
+  pk: 622
+  fields:
+    text: automatic scoring
+    
+- model: reksis_dosbing.keyword
+  pk: 623
+  fields:
+    text: short text
+    
+- model: reksis_dosbing.keyword
+  pk: 624
+  fields:
+    text: word relatedness
+    
+- model: reksis_dosbing.keyword
+  pk: 625
+  fields:
+    text: dictionary
+    
+- model: reksis_dosbing.keyword
+  pk: 626
+  fields:
+    text: semantic similarity
+    
+- model: reksis_dosbing.keyword
+  pk: 627
+  fields:
+    text: text classification
+    
+- model: reksis_dosbing.keyword
+  pk: 628
+  fields:
+    text: bahasa indonesia. 
+    
+- model: reksis_dosbing.keyword
+  pk: 629
+  fields:
+    text: keterkaitan kata
+    
+- model: reksis_dosbing.keyword
+  pk: 630
+  fields:
+    text: n-gram
+    
+- model: reksis_dosbing.keyword
+  pk: 631
+  fields:
+    text: similaritas semantik
+    
+- model: reksis_dosbing.keyword
+  pk: 632
+  fields:
+    text: klasifikasi teks
+    
+- model: reksis_dosbing.keyword
+  pk: 633
+  fields:
+    text: ngle page application
+    
+- model: reksis_dosbing.keyword
+  pk: 634
+  fields:
+    text: javascript
+    
+- model: reksis_dosbing.keyword
+  pk: 635
+  fields:
+    text: angularjs
+    
+- model: reksis_dosbing.keyword
+  pk: 636
+  fields:
+    text: rencana studi
+    
+- model: reksis_dosbing.keyword
+  pk: 637
+  fields:
+    text: text clustering
+    
+- model: reksis_dosbing.keyword
+  pk: 638
+  fields:
+    text: dictionary 
+    
+- model: reksis_dosbing.keyword
+  pk: 639
+  fields:
+    text: sistem voip
+    
+- model: reksis_dosbing.keyword
+  pk: 640
+  fields:
+    text: server trixbox
+    
+- model: reksis_dosbing.keyword
+  pk: 641
+  fields:
+    text: perpustakaan digital
+    
+- model: reksis_dosbing.keyword
+  pk: 642
+  fields:
+    text: paperless
+    
+- model: reksis_dosbing.keyword
+  pk: 643
+  fields:
+    text: hak cipta
+    
+- model: reksis_dosbing.keyword
+  pk: 644
+  fields:
+    text: is-impact
+    
+- model: reksis_dosbing.keyword
+  pk: 645
+  fields:
+    text: server activity
+    
+- model: reksis_dosbing.keyword
+  pk: 646
+  fields:
+    text: biomedical modelling
+    
+- model: reksis_dosbing.keyword
+  pk: 647
+  fields:
+    text: respiratory control system
+    
+- model: reksis_dosbing.keyword
+  pk: 648
+  fields:
+    text: exercise
+    
+- model: reksis_dosbing.keyword
+  pk: 649
+  fields:
+    text: simulation
+    
+- model: reksis_dosbing.keyword
+  pk: 650
+  fields:
+    text: ahasa indonesia
+    
+- model: reksis_dosbing.keyword
+  pk: 651
+  fields:
+    text: crowdsourcing
+    
+- model: reksis_dosbing.keyword
+  pk: 652
+  fields:
+    text: repository
+    
+- model: reksis_dosbing.keyword
+  pk: 653
+  fields:
+    text: situs web
+    
+- model: reksis_dosbing.keyword
+  pk: 654
+  fields:
+    text: model multi situs
+    
+- model: reksis_dosbing.keyword
+  pk: 655
+  fields:
+    text: amal usaha muhammadiyah
+    
+- model: reksis_dosbing.keyword
+  pk: 656
+  fields:
+    text: cabang muhammadiyah
+    
+- model: reksis_dosbing.keyword
+  pk: 657
+  fields:
+    text: single page application
+    
+- model: reksis_dosbing.keyword
+  pk: 658
+  fields:
+    text: job assignment
+    
+- model: reksis_dosbing.keyword
+  pk: 659
+  fields:
+    text: penilaian otomatis
+    
+- model: reksis_dosbing.keyword
+  pk: 660
+  fields:
+    text: belajar online
+    
+- model: reksis_dosbing.keyword
+  pk: 661
+  fields:
+    text: community
+    
+- model: reksis_dosbing.keyword
+  pk: 662
+  fields:
+    text: culture
+    
+- model: reksis_dosbing.keyword
+  pk: 663
+  fields:
+    text: development
+    
+- model: reksis_dosbing.keyword
+  pk: 664
+  fields:
+    text: open source
+    
+- model: reksis_dosbing.keyword
+  pk: 665
+  fields:
+    text: software
+    
+- model: reksis_dosbing.keyword
+  pk: 666
+  fields:
+    text: mail server
+    
+- model: reksis_dosbing.keyword
+  pk: 667
+  fields:
+    text: jaringan 
+    
+- model: reksis_dosbing.keyword
+  pk: 668
+  fields:
+    text: google translate
+    
+- model: reksis_dosbing.keyword
+  pk: 669
+  fields:
+    text: language repository
+    
+- model: reksis_dosbing.keyword
+  pk: 670
+  fields:
+    text: sistem monitoring
+    
+- model: reksis_dosbing.keyword
+  pk: 671
+  fields:
+    text: usaha kecil menengah
+    
+- model: reksis_dosbing.keyword
+  pk: 672
+  fields:
+    text: aplikasi sparta
+    
+- model: reksis_dosbing.keyword
+  pk: 673
+  fields:
+    text: respiratory system
+    
+- model: reksis_dosbing.keyword
+  pk: 674
+  fields:
+    text: simulation model
+    
+- model: reksis_dosbing.keyword
+  pk: 675
+  fields:
+    text: validation
+    
+- model: reksis_dosbing.keyword
+  pk: 676
+  fields:
+    text: admission
+    
+- model: reksis_dosbing.keyword
+  pk: 677
+  fields:
+    text: arima
+    
+- model: reksis_dosbing.keyword
+  pk: 678
+  fields:
+    text: autoregression
+    
+- model: reksis_dosbing.keyword
+  pk: 679
+  fields:
+    text: forecasting
+    
+- model: reksis_dosbing.keyword
+  pk: 680
+  fields:
+    text: time series
+    
+- model: reksis_dosbing.keyword
+  pk: 681
+  fields:
+    text: statement mapping
+    
+- model: reksis_dosbing.keyword
+  pk: 682
+  fields:
+    text: algoritma similaritas
+    
+- model: reksis_dosbing.keyword
+  pk: 683
+  fields:
+    text: cloud computing
+    
+- model: reksis_dosbing.keyword
+  pk: 684
+  fields:
+    text: virtualisasi
+    
+- model: reksis_dosbing.keyword
+  pk: 685
+  fields:
+    text: fuzzy soft set theory
+    
+- model: reksis_dosbing.keyword
+  pk: 686
+  fields:
+    text: numerical data
+    
+- model: reksis_dosbing.keyword
+  pk: 687
+  fields:
+    text: classification
+    
+- model: reksis_dosbing.keyword
+  pk: 688
+  fields:
+    text: entropy filter
+    
+- model: reksis_dosbing.keyword
+  pk: 689
+  fields:
+    text: fuzzy soft set based classification
+    
+- model: reksis_dosbing.keyword
+  pk: 690
+  fields:
+    text: fuzzy soft set similarity
+    
+- model: reksis_dosbing.keyword
+  pk: 691
+  fields:
+    text: soft set theory and gene selection
+    
+- model: reksis_dosbing.keyword
+  pk: 692
+  fields:
+    text: classification 
+    
+- model: reksis_dosbing.keyword
+  pk: 693
+  fields:
+    text: spatio- spectro- temporal data
+    
+- model: reksis_dosbing.keyword
+  pk: 694
+  fields:
+    text: functional magnetic resonance imaging
+    
+- model: reksis_dosbing.keyword
+  pk: 695
+  fields:
+    text: evolving spiking neural networks
+      
+    
+- model: reksis_dosbing.keyword
+  pk: 696
+  fields:
+    text: neucube
+    
+- model: reksis_dosbing.keyword
+  pk: 697
+  fields:
+    text: deep learning 
+    
+- model: reksis_dosbing.keyword
+  pk: 698
+  fields:
+    text: akademik
+    
+- model: reksis_dosbing.keyword
+  pk: 699
+  fields:
+    text: JSON
+    
+- model: reksis_dosbing.keyword
+  pk: 700
+  fields:
+    text: GIS
+    
+- model: reksis_dosbing.keyword
+  pk: 701
+  fields:
+    text: nutrition status of child
+    
+- model: reksis_dosbing.keyword
+  pk: 702
+  fields:
+    text: penjualan
+    
+- model: reksis_dosbing.keyword
+  pk: 703
+  fields:
+    text: batik
+    
+- model: reksis_dosbing.keyword
+  pk: 704
+  fields:
+    text: entropy ranking
+    
+- model: reksis_dosbing.keyword
+  pk: 705
+  fields:
+    text: fuzzy soft rough k-means
+    
+- model: reksis_dosbing.keyword
+  pk: 706
+  fields:
+    text: gene based clustering
+    
+- model: reksis_dosbing.keyword
+  pk: 707
+  fields:
+    text: k-means
+    
+- model: reksis_dosbing.keyword
+  pk: 708
+  fields:
+    text: microarray data
+    
+- model: reksis_dosbing.keyword
+  pk: 709
+  fields:
+    text: rough k-means
+    
+- model: reksis_dosbing.keyword
+  pk: 710
+  fields:
+    text: soft set similarity approach
+    
+- model: reksis_dosbing.keyword
+  pk: 711
+  fields:
+    text: ASM
+    
+- model: reksis_dosbing.keyword
+  pk: 712
+  fields:
+    text: ct scan
+    
+- model: reksis_dosbing.keyword
+  pk: 713
+  fields:
+    text: lung disease
+    
+- model: reksis_dosbing.keyword
+  pk: 714
+  fields:
+    text: morphological math
+    
+- model: reksis_dosbing.keyword
+  pk: 715
+  fields:
+    text: SVM
+    
+- model: reksis_dosbing.keyword
+  pk: 716
+  fields:
+    text: AAM 
+    
+- model: reksis_dosbing.keyword
+  pk: 717
+  fields:
+    text: artery 
+    
+- model: reksis_dosbing.keyword
+  pk: 718
+  fields:
+    text: ct scan 
+    
+- model: reksis_dosbing.keyword
+  pk: 719
+  fields:
+    text: lung nodule 
+    
+- model: reksis_dosbing.keyword
+  pk: 720
+  fields:
+    text: PCA
+    
+- model: reksis_dosbing.keyword
+  pk: 721
+  fields:
+    text: captive portal
+    
+- model: reksis_dosbing.keyword
+  pk: 722
+  fields:
+    text: cisco packet tracer
+    
+- model: reksis_dosbing.keyword
+  pk: 723
+  fields:
+    text: hotspot
+    
+- model: reksis_dosbing.keyword
+  pk: 724
+  fields:
+    text: internet
+    
+- model: reksis_dosbing.keyword
+  pk: 725
+  fields:
+    text: mikrotik
+    
+- model: reksis_dosbing.keyword
+  pk: 726
+  fields:
+    text: cloud storage
+    
+- model: reksis_dosbing.keyword
+  pk: 727
+  fields:
+    text: owncloud
+    
+- model: reksis_dosbing.keyword
+  pk: 728
+  fields:
+    text: automation system 
+    
+- model: reksis_dosbing.keyword
+  pk: 729
+  fields:
+    text: TNB
+    
+- model: reksis_dosbing.keyword
+  pk: 730
+  fields:
+    text: embedded
+    
+- model: reksis_dosbing.keyword
+  pk: 731
+  fields:
+    text: delay
+    
+- model: reksis_dosbing.keyword
+  pk: 732
+  fields:
+    text: jaringan
+    
+- model: reksis_dosbing.keyword
+  pk: 733
+  fields:
+    text: jitter
+    
+- model: reksis_dosbing.keyword
+  pk: 734
+  fields:
+    text: packetloss
+    
+- model: reksis_dosbing.keyword
+  pk: 735
+  fields:
+    text: QOS
+    
+- model: reksis_dosbing.keyword
+  pk: 736
+  fields:
+    text: throuput
+    
+- model: reksis_dosbing.keyword
+  pk: 737
+  fields:
+    text: tiphon
+    
+- model: reksis_dosbing.keyword
+  pk: 738
+  fields:
+    text: generator linier
+    
+- model: reksis_dosbing.keyword
+  pk: 739
+  fields:
+    text: energi terbarukan
+    
+- model: reksis_dosbing.keyword
+  pk: 740
+  fields:
+    text: magnet permanen
+    
+- model: reksis_dosbing.keyword
+  pk: 741
+  fields:
+    text: artificial neural network
+    
+- model: reksis_dosbing.keyword
+  pk: 742
+  fields:
+    text: levenberg-marquadt
+    
+- model: reksis_dosbing.keyword
+  pk: 743
+  fields:
+    text: cuckoo-search 
+    
+- model: reksis_dosbing.keyword
+  pk: 744
+  fields:
+    text: bag-of-words
+    
+- model: reksis_dosbing.keyword
+  pk: 745
+  fields:
+    text: text classification 
+    
+- model: reksis_dosbing.keyword
+  pk: 746
+  fields:
+    text: engineering education
+    
+- model: reksis_dosbing.keyword
+  pk: 747
+  fields:
+    text: field programmable gate
+    
+- model: reksis_dosbing.keyword
+  pk: 748
+  fields:
+    text: array
+    
+- model: reksis_dosbing.keyword
+  pk: 749
+  fields:
+    text: microprocessor design
+    
+- model: reksis_dosbing.keyword
+  pk: 750
+  fields:
+    text: post-silicon debug
+    
+- model: reksis_dosbing.keyword
+  pk: 751
+  fields:
+    text: programmable logic
+    
+- model: reksis_dosbing.keyword
+  pk: 752
+  fields:
+    text: android smartphone
+    
+- model: reksis_dosbing.keyword
+  pk: 753
+  fields:
+    text: firebase
+    
+- model: reksis_dosbing.keyword
+  pk: 754
+  fields:
+    text: real time
+    
+- model: reksis_dosbing.keyword
+  pk: 755
+  fields:
+    text: language learning
+    
+- model: reksis_dosbing.keyword
+  pk: 756
+  fields:
+    text: rapot sekolah 
+    
+- model: reksis_dosbing.keyword
+  pk: 757
+  fields:
+    text: information technology
+    
+- model: reksis_dosbing.keyword
+  pk: 758
+  fields:
+    text: children nutritional status
+    
+- model: reksis_dosbing.keyword
+  pk: 759
+  fields:
+    text: storage
+    
+- model: reksis_dosbing.keyword
+  pk: 760
+  fields:
+    text: server
+    
+- model: reksis_dosbing.keyword
+  pk: 761
+  fields:
+    text: mikrokontroler arduino
+    
+- model: reksis_dosbing.keyword
+  pk: 762
+  fields:
+    text: fuzzy c-means
+    
+- model: reksis_dosbing.keyword
+  pk: 763
+  fields:
+    text: hybrid fuzzy 
+    
+- model: reksis_dosbing.keyword
+  pk: 764
+  fields:
+    text: ANC
+    
+- model: reksis_dosbing.keyword
+  pk: 765
+  fields:
+    text: adaptive filter 
+    
+- model: reksis_dosbing.keyword
+  pk: 766
+  fields:
+    text: noise canceller 
+    
+- model: reksis_dosbing.keyword
+  pk: 767
+  fields:
+    text: speed controller
+    
+- model: reksis_dosbing.keyword
+  pk: 768
+  fields:
+    text: PWM
+    
+- model: reksis_dosbing.keyword
+  pk: 769
+  fields:
+    text: dc motor
+    
+- model: reksis_dosbing.keyword
+  pk: 770
+  fields:
+    text: ultrasonic proximity sensor
+    
+- model: reksis_dosbing.keyword
+  pk: 771
+  fields:
+    text: andoid
+    
+- model: reksis_dosbing.keyword
+  pk: 772
+  fields:
+    text: forlap dikti
+    
+- model: reksis_dosbing.keyword
+  pk: 773
+  fields:
+    text: rest api
+    
+- model: reksis_dosbing.keyword
+  pk: 774
+  fields:
+    text: web scraper
+    
+- model: reksis_dosbing.keyword
+  pk: 775
+  fields:
+    text: dimension reduction
+    
+- model: reksis_dosbing.keyword
+  pk: 776
+  fields:
+    text: conditional entropy
+    
+- model: reksis_dosbing.keyword
+  pk: 777
+  fields:
+    text: incomplete information system 
+    
+- model: reksis_dosbing.keyword
+  pk: 778
+  fields:
+    text: electric stove design
+    
+- model: reksis_dosbing.keyword
+  pk: 779
+  fields:
+    text: ums wifi
+    
+- model: reksis_dosbing.keyword
+  pk: 780
+  fields:
+    text: SSO
+    
+- model: reksis_dosbing.keyword
+  pk: 781
+  fields:
+    text: suricata
+    
+- model: reksis_dosbing.keyword
+  pk: 782
+  fields:
+    text: pfsense
+    
+- model: reksis_dosbing.keyword
+  pk: 783
+  fields:
+    text: captcha
+    
+- model: reksis_dosbing.keyword
+  pk: 784
+  fields:
+    text: documentation
+    
+- model: reksis_dosbing.keyword
+  pk: 785
+  fields:
+    text: identification
+    
+- model: reksis_dosbing.keyword
+  pk: 786
+  fields:
+    text: macro feature
+    
+- model: reksis_dosbing.keyword
+  pk: 787
+  fields:
+    text: microsoft office excel
+    
+- model: reksis_dosbing.keyword
+  pk: 788
+  fields:
+    text: repair request service
+    
+- model: reksis_dosbing.keyword
+  pk: 789
+  fields:
+    text: geometric modeling
+    
+- model: reksis_dosbing.keyword
+  pk: 790
+  fields:
+    text: assembly analysis
+    
+- model: reksis_dosbing.keyword
+  pk: 791
+  fields:
+    text: reminder
+    
+- model: reksis_dosbing.keyword
+  pk: 792
+  fields:
+    text: sms system
+    
+- model: reksis_dosbing.keyword
+  pk: 793
+  fields:
+    text: hospital
+    
+- model: reksis_dosbing.keyword
+  pk: 794
+  fields:
+    text: penggiling tanah
+    
+- model: reksis_dosbing.keyword
+  pk: 795
+  fields:
+    text: desain
+    
+- model: reksis_dosbing.keyword
+  pk: 796
+  fields:
+    text: rol bertingkat
+    
+- model: reksis_dosbing.keyword
+  pk: 797
+  fields:
+    text: assembly
+    
+- model: reksis_dosbing.keyword
+  pk: 798
+  fields:
+    text: clashanalysis
+    
+- model: reksis_dosbing.keyword
+  pk: 799
+  fields:
+    text: building network rt/rw based hotspot
+    
+- model: reksis_dosbing.keyword
+  pk: 800
+  fields:
+    text: mikrokontroler
+    
+- model: reksis_dosbing.keyword
+  pk: 801
+  fields:
+    text: technology
+    
+- model: reksis_dosbing.keyword
+  pk: 802
+  fields:
+    text: mediashare
+    
+- model: reksis_dosbing.keyword
+  pk: 803
+  fields:
+    text: virtual private network
+    
+- model: reksis_dosbing.keyword
+  pk: 804
+  fields:
+    text: inventory
+    
+- model: reksis_dosbing.keyword
+  pk: 805
+  fields:
+    text: email
+    
+- model: reksis_dosbing.keyword
+  pk: 806
+  fields:
+    text: IDS
+    
+- model: reksis_dosbing.keyword
+  pk: 807
+  fields:
+    text: network security
+    
+- model: reksis_dosbing.keyword
+  pk: 808
+  fields:
+    text: snort
+    
+- model: reksis_dosbing.keyword
+  pk: 809
+  fields:
+    text: contractor and developer
+    
+- model: reksis_dosbing.keyword
+  pk: 810
+  fields:
+    text: project management application
+    
+- model: reksis_dosbing.keyword
+  pk: 811
+  fields:
+    text: keamanan jaringan
+    
+- model: reksis_dosbing.keyword
+  pk: 812
+  fields:
+    text: wi-fi
+    
+- model: reksis_dosbing.keyword
+  pk: 813
+  fields:
+    text: administrasi nilai universitas muhammadiyah surakarta    
+    
+- model: reksis_dosbing.keyword
+  pk: 814
+  fields:
+    text: bulking
+      
+- model: reksis_dosbing.keyword
+  pk: 815
+  fields:
+    text: body mass index
+    
+- model: reksis_dosbing.keyword
+  pk: 816
+  fields:
+    text: cutting
+    
+- model: reksis_dosbing.keyword
+  pk: 817
+  fields:
+    text: database sqlite
+    
+- model: reksis_dosbing.keyword
+  pk: 818
+  fields:
+    text: GYM
+    
+- model: reksis_dosbing.keyword
+  pk: 819
+  fields:
+    text: XML
+    
+- model: reksis_dosbing.keyword
+  pk: 820
+  fields:
+    text: single sign on
+    
+- model: reksis_dosbing.keyword
+  pk: 821
+  fields:
+    text: active directory
+    
+- model: reksis_dosbing.keyword
+  pk: 822
+  fields:
+    text: domain
+    
+- model: reksis_dosbing.keyword
+  pk: 823
+  fields:
+    text: LDAP
+    
+- model: reksis_dosbing.keyword
+  pk: 824
+  fields:
+    text: security monitoring system
+    
+- model: reksis_dosbing.keyword
+  pk: 825
+  fields:
+    text: fingerprint
+    
+- model: reksis_dosbing.keyword
+  pk: 826
+  fields:
+    text: door locks
+    
+- model: reksis_dosbing.keyword
+  pk: 827
+  fields:
+    text: word processor
+    
+- model: reksis_dosbing.keyword
+  pk: 828
+  fields:
+    text: teknologi font
+    
+- model: reksis_dosbing.keyword
+  pk: 829
+  fields:
+    text: client
+    
+- model: reksis_dosbing.keyword
+  pk: 830
+  fields:
+    text: heartbleed
+    
+- model: reksis_dosbing.keyword
+  pk: 831
+  fields:
+    text: heartbleed detector
+    
+- model: reksis_dosbing.keyword
+  pk: 832
+  fields:
+    text: heartbleed scanner
+    
+- model: reksis_dosbing.keyword
+  pk: 833
+  fields:
+    text: heartbleed script
+    
+- model: reksis_dosbing.keyword
+  pk: 834
+  fields:
+    text: clustering
+    
+- model: reksis_dosbing.keyword
+  pk: 835
+  fields:
+    text: maximal association rule
+    
+- model: reksis_dosbing.keyword
+  pk: 836
+  fields:
+    text: anggota tubuh
+    
+- model: reksis_dosbing.keyword
+  pk: 837
+  fields:
+    text: angka
+    
+- model: reksis_dosbing.keyword
+  pk: 838
+  fields:
+    text: kinect 
+    
+- model: reksis_dosbing.keyword
+  pk: 839
+  fields:
+    text: autis
+    
+- model: reksis_dosbing.keyword
+  pk: 840
+  fields:
+    text: inkscape
+    
+- model: reksis_dosbing.keyword
+  pk: 841
+  fields:
+    text: bahasa inggris
+    
+- model: reksis_dosbing.keyword
+  pk: 842
+  fields:
+    text: game pembelajaran sholat
+    
+- model: reksis_dosbing.keyword
+  pk: 843
+  fields:
+    text: sekolah luar biasa
+    
+- model: reksis_dosbing.keyword
+  pk: 844
+  fields:
+    text: tuna rungu wicara
+    
+- model: reksis_dosbing.keyword
+  pk: 845
+  fields:
+    text: prototyping ar
+    
+- model: reksis_dosbing.keyword
+  pk: 846
+  fields:
+    text: ETL
+    
+- model: reksis_dosbing.keyword
+  pk: 847
+  fields:
+    text: snowflake schema
+    
+- model: reksis_dosbing.keyword
+  pk: 848
+  fields:
+    text: cube browser
+    
+- model: reksis_dosbing.keyword
+  pk: 849
+  fields:
+    text: drill down
+    
+- model: reksis_dosbing.keyword
+  pk: 850
+  fields:
+    text: roll up
+    
+- model: reksis_dosbing.keyword
+  pk: 851
+  fields:
+    text: bahasa arab
+    
+- model: reksis_dosbing.keyword
+  pk: 852
+  fields:
+    text: belajar
+    
+- model: reksis_dosbing.keyword
+  pk: 853
+  fields:
+    text: DO’A
+    
+- model: reksis_dosbing.keyword
+  pk: 854
+  fields:
+    text: tuna rungu
+    
+- model: reksis_dosbing.keyword
+  pk: 855
+  fields:
+    text: backpropagation
+    
+- model: reksis_dosbing.keyword
+  pk: 856
+  fields:
+    text: jaringan syaraf  tiruan
+    
+- model: reksis_dosbing.keyword
+  pk: 857
+  fields:
+    text: antropometri
+    
+- model: reksis_dosbing.keyword
+  pk: 858
+  fields:
+    text: penilaian status gizi balita
+    
+- model: reksis_dosbing.keyword
+  pk: 859
+  fields:
+    text: squid server
+    
+- model: reksis_dosbing.keyword
+  pk: 860
+  fields:
+    text: proxy cache
+    
+- model: reksis_dosbing.keyword
+  pk: 861
+  fields:
+    text: at89s51
+    
+- model: reksis_dosbing.keyword
+  pk: 862
+  fields:
+    text: kinect xbox
+    
+- model: reksis_dosbing.keyword
+  pk: 863
+  fields:
+    text: motorik
+    
+- model: reksis_dosbing.keyword
+  pk: 864
+  fields:
+    text: tari tradisional
+    
+- model: reksis_dosbing.keyword
+  pk: 865
+  fields:
+    text: tunarungu
+    
+- model: reksis_dosbing.keyword
+  pk: 866
+  fields:
+    text: anak berkebutuhan khusus
+    
+- model: reksis_dosbing.keyword
+  pk: 867
+  fields:
+    text: permainan
+    
+- model: reksis_dosbing.keyword
+  pk: 868
+  fields:
+    text: hewan laut
+    
+- model: reksis_dosbing.keyword
+  pk: 869
+  fields:
+    text: pendidikan khusus
+    
+- model: reksis_dosbing.keyword
+  pk: 870
+  fields:
+    text: education game
+    
+- model: reksis_dosbing.keyword
+  pk: 871
+  fields:
+    text: computer network
+    
+- model: reksis_dosbing.keyword
+  pk: 872
+  fields:
+    text: alat transportasi
+    
+- model: reksis_dosbing.keyword
+  pk: 873
+  fields:
+    text: benda di sekolah
+    
+- model: reksis_dosbing.keyword
+  pk: 874
+  fields:
+    text: alat musik
+    
+- model: reksis_dosbing.keyword
+  pk: 875
+  fields:
+    text: SLB
+    
+- model: reksis_dosbing.keyword
+  pk: 876
+  fields:
+    text: tunagrahita
+    
+- model: reksis_dosbing.keyword
+  pk: 877
+  fields:
+    text: ramadhan
+    
+- model: reksis_dosbing.keyword
+  pk: 878
+  fields:
+    text: chatbot
+    
+- model: reksis_dosbing.keyword
+  pk: 879
+  fields:
+    text: chataja
+    
+- model: reksis_dosbing.keyword
+  pk: 880
+  fields:
+    text: down syndrome
+    
+- model: reksis_dosbing.keyword
+  pk: 881
+  fields:
+    text: budaya indonesia
+    
+- model: reksis_dosbing.keyword
+  pk: 882
+  fields:
+    text: arabic
+    
+- model: reksis_dosbing.keyword
+  pk: 883
+  fields:
+    text: modern islamic boarding school
+    
+- model: reksis_dosbing.keyword
+  pk: 884
+  fields:
+    text: 2013 curriculum
+    
+    
+- model: reksis_dosbing.keyword
+  pk: 885
+  fields:
+    text: student
+      
+    
+- model: reksis_dosbing.keyword
+  pk: 886
+  fields:
+    text: augmented reality. 
+    
+- model: reksis_dosbing.keyword
+  pk: 887
+  fields:
+    text: fauna
+    
+- model: reksis_dosbing.keyword
+  pk: 888
+  fields:
+    text: flora
+    
+- model: reksis_dosbing.keyword
+  pk: 889
+  fields:
+    text: angka dasar
+    
+- model: reksis_dosbing.keyword
+  pk: 890
+  fields:
+    text: constract 2
+    
+- model: reksis_dosbing.keyword
+  pk: 891
+  fields:
+    text: UANG
+    
+- model: reksis_dosbing.keyword
+  pk: 892
+  fields:
+    text: ANAK
+    
+- model: reksis_dosbing.keyword
+  pk: 893
+  fields:
+    text: gamifikasi 
+    
+- model: reksis_dosbing.keyword
+  pk: 894
+  fields:
+    text: musim
+    
+- model: reksis_dosbing.keyword
+  pk: 895
+  fields:
+    text: slb negeri sukoharjo
+    
+- model: reksis_dosbing.keyword
+  pk: 896
+  fields:
+    text: negara asean
+    
+- model: reksis_dosbing.keyword
+  pk: 897
+  fields:
+    text: distribution center
+    
+- model: reksis_dosbing.keyword
+  pk: 898
+  fields:
+    text: ritel
+    
+- model: reksis_dosbing.keyword
+  pk: 899
+  fields:
+    text: IPA
+    
+- model: reksis_dosbing.keyword
+  pk: 900
+  fields:
+    text: panca indera
+    
+- model: reksis_dosbing.keyword
+  pk: 901
+  fields:
+    text: pengenalan game
+    
+- model: reksis_dosbing.keyword
+  pk: 902
+  fields:
+    text: berhitung anak
+    
+- model: reksis_dosbing.keyword
+  pk: 903
+  fields:
+    text: bahasa daerah
+    
+- model: reksis_dosbing.keyword
+  pk: 904
+  fields:
+    text: organ peredaran darah
+    
+- model: reksis_dosbing.keyword
+  pk: 905
+  fields:
+    text: curriculum
+    
+- model: reksis_dosbing.keyword
+  pk: 906
+  fields:
+    text: adjustment of living things
+    
+- model: reksis_dosbing.keyword
+  pk: 907
+  fields:
+    text: pengenalan tubuh
+    
+- model: reksis_dosbing.keyword
+  pk: 908
+  fields:
+    text: tuna grahita
+    
+- model: reksis_dosbing.keyword
+  pk: 909
+  fields:
+    text: construct2
+    
+- model: reksis_dosbing.keyword
+  pk: 910
+  fields:
+    text: pengenalan hewan
+    
+- model: reksis_dosbing.keyword
+  pk: 911
+  fields:
+    text: makhluk hidup
+    
+- model: reksis_dosbing.keyword
+  pk: 912
+  fields:
+    text: hijaiyah letter
+    
+- model: reksis_dosbing.keyword
+  pk: 913
+  fields:
+    text: elementary school
+    
+- model: reksis_dosbing.keyword
+  pk: 914
+  fields:
+    text: letters hijaiyah
+    
+- model: reksis_dosbing.keyword
+  pk: 915
+  fields:
+    text: stringing
+    
+- model: reksis_dosbing.keyword
+  pk: 916
+  fields:
+    text: materi pembelajaran
+    
+- model: reksis_dosbing.keyword
+  pk: 917
+  fields:
+    text: character introduction puppet 
+    
+- model: reksis_dosbing.keyword
+  pk: 918
+  fields:
+    text: bahasa inggris 
+    
+- model: reksis_dosbing.keyword
+  pk: 919
+  fields:
+    text: geometry
+    
+- model: reksis_dosbing.keyword
+  pk: 920
+  fields:
+    text: geometry fremework
+    
+- model: reksis_dosbing.keyword
+  pk: 921
+  fields:
+    text: family activities
+    
+- model: reksis_dosbing.keyword
+  pk: 922
+  fields:
+    text: children with special needs
+    
+- model: reksis_dosbing.keyword
+  pk: 923
+  fields:
+    text: autism
+    
+- model: reksis_dosbing.keyword
+  pk: 924
+  fields:
+    text: education game 
+    
+- model: reksis_dosbing.keyword
+  pk: 925
+  fields:
+    text: utisme
+    
+- model: reksis_dosbing.keyword
+  pk: 926
+  fields:
+    text: keluarga
+    
+- model: reksis_dosbing.keyword
+  pk: 927
+  fields:
+    text: keterampilan motorik
+    
+- model: reksis_dosbing.keyword
+  pk: 928
+  fields:
+    text: children with autism
+    
+- model: reksis_dosbing.keyword
+  pk: 929
+  fields:
+    text: anak-anak dengan autisme
+    
+- model: reksis_dosbing.keyword
+  pk: 930
+  fields:
+    text: makanan tradisional indonesia
+    
+- model: reksis_dosbing.keyword
+  pk: 931
+  fields:
+    text: unity2d
+    
+- model: reksis_dosbing.keyword
+  pk: 932
+  fields:
+    text: cv.al-ghuroba’
+    
+- model: reksis_dosbing.keyword
+  pk: 933
+  fields:
+    text: data transaksi
+    
+- model: reksis_dosbing.keyword
+  pk: 934
+  fields:
+    text: data warehouse
+    
+- model: reksis_dosbing.keyword
+  pk: 935
+  fields:
+    text: snowflake
+    
+- model: reksis_dosbing.keyword
+  pk: 936
+  fields:
+    text: safesquid
+    
+- model: reksis_dosbing.keyword
+  pk: 937
+  fields:
+    text: squid
+    
+- model: reksis_dosbing.keyword
+  pk: 938
+  fields:
+    text: cache proxy server
+    
+- model: reksis_dosbing.keyword
+  pk: 939
+  fields:
+    text: proxy squid
+    
+- model: reksis_dosbing.keyword
+  pk: 940
+  fields:
+    text: polipo
+    
+- model: reksis_dosbing.keyword
+  pk: 941
+  fields:
+    text: ubuntu
+    
+- model: reksis_dosbing.keyword
+  pk: 942
+  fields:
+    text: buildbox
+    
+- model: reksis_dosbing.keyword
+  pk: 943
+  fields:
+    text: pesma apps
+    
+- model: reksis_dosbing.keyword
+  pk: 944
+  fields:
+    text: shuttle
+    
+- model: reksis_dosbing.keyword
+  pk: 945
+  fields:
+    text: sejarah
+    
+- model: reksis_dosbing.keyword
+  pk: 946
+  fields:
+    text: aplikasi mobile
+    
+- model: reksis_dosbing.keyword
+  pk: 947
+  fields:
+    text: laravel
+    
+- model: reksis_dosbing.keyword
+  pk: 948
+  fields:
+    text: iklim dan cuaca
+    
+- model: reksis_dosbing.keyword
+  pk: 949
+  fields:
+    text: animal&plants
+    
+- model: reksis_dosbing.keyword
+  pk: 950
+  fields:
+    text: learning method
+    
+- model: reksis_dosbing.keyword
+  pk: 951
+  fields:
+    text: natural science
+    
+- model: reksis_dosbing.keyword
+  pk: 952
+  fields:
+    text: analytical hierarchy process
+    
+- model: reksis_dosbing.keyword
+  pk: 953
+  fields:
+    text: lazarus
+    
+- model: reksis_dosbing.keyword
+  pk: 954
+  fields:
+    text: siswa berprestasi
+    
+- model: reksis_dosbing.keyword
+  pk: 955
+  fields:
+    text: cobit 5
+    
+- model: reksis_dosbing.keyword
+  pk: 956
+  fields:
+    text: KNN
+    
+- model: reksis_dosbing.keyword
+  pk: 957
+  fields:
+    text: akurasi
+    
+- model: reksis_dosbing.keyword
+  pk: 958
+  fields:
+    text: geografis
+    
+- model: reksis_dosbing.keyword
+  pk: 959
+  fields:
+    text: webgis
+    
+- model: reksis_dosbing.keyword
+  pk: 960
+  fields:
+    text: pemetaan
+    
+- model: reksis_dosbing.keyword
+  pk: 961
+  fields:
+    text: leaflet
+    
+- model: reksis_dosbing.keyword
+  pk: 962
+  fields:
+    text: k-nearest neighbor
+    
+- model: reksis_dosbing.keyword
+  pk: 963
+  fields:
+    text: heart disease
+    
+- model: reksis_dosbing.keyword
+  pk: 964
+  fields:
+    text: e-commerce 
+    
+- model: reksis_dosbing.keyword
+  pk: 965
+  fields:
+    text: nilai siswa
+    
+- model: reksis_dosbing.keyword
+  pk: 966
+  fields:
+    text: pengelolaan nilai siswa
+    
+- model: reksis_dosbing.keyword
+  pk: 967
+  fields:
+    text: pengujian blackbox
+    
+- model: reksis_dosbing.keyword
+  pk: 968
+  fields:
+    text: BLOG
+    
+- model: reksis_dosbing.keyword
+  pk: 969
+  fields:
+    text: information
+    
+- model: reksis_dosbing.keyword
+  pk: 970
+  fields:
+    text: muhammadiyah
+    
+- model: reksis_dosbing.keyword
+  pk: 971
+  fields:
+    text: website profil
+    
+- model: reksis_dosbing.keyword
+  pk: 972
+  fields:
+    text: seleksi
+    
+- model: reksis_dosbing.keyword
+  pk: 973
+  fields:
+    text: kriteria
+    
+- model: reksis_dosbing.keyword
+  pk: 974
+  fields:
+    text: jadwal kegiatan
+    
+- model: reksis_dosbing.keyword
+  pk: 975
+  fields:
+    text: jadwal
+    
+- model: reksis_dosbing.keyword
+  pk: 976
+  fields:
+    text: rapor
+    
+- model: reksis_dosbing.keyword
+  pk: 977
+  fields:
+    text: company profile
+    
+- model: reksis_dosbing.keyword
+  pk: 978
+  fields:
+    text: pendaftaran pesantren mahasiswa baru
+    
+- model: reksis_dosbing.keyword
+  pk: 979
+  fields:
+    text: SDLC
+    
+- model: reksis_dosbing.keyword
+  pk: 980
+  fields:
+    text: layanan
+    
+- model: reksis_dosbing.keyword
+  pk: 981
+  fields:
+    text: relational database
+    
+- model: reksis_dosbing.keyword
+  pk: 982
+  fields:
+    text: temporal database
+    
+- model: reksis_dosbing.keyword
+  pk: 983
+  fields:
+    text: multiclass
+    
+- model: reksis_dosbing.keyword
+  pk: 984
+  fields:
+    text: material bangunan
+    
+- model: reksis_dosbing.keyword
+  pk: 985
+  fields:
+    text: telegram bot
+    
+- model: reksis_dosbing.keyword
+  pk: 986
+  fields:
+    text: masta imm
+    
+- model: reksis_dosbing.keyword
+  pk: 987
+  fields:
+    text: pendataan barang
+    
+- model: reksis_dosbing.keyword
+  pk: 988
+  fields:
+    text: transaksi penjualan
+    
+- model: reksis_dosbing.keyword
+  pk: 989
+  fields:
+    text: flatness
+    
+- model: reksis_dosbing.keyword
+  pk: 990
+  fields:
+    text: trajectory generation
+    
+- model: reksis_dosbing.keyword
+  pk: 991
+  fields:
+    text: b-splines
+    
+- model: reksis_dosbing.keyword
+  pk: 992
+  fields:
+    text: nonlinear mpc
+    
+- model: reksis_dosbing.keyword
+  pk: 993
+  fields:
+    text: signal processing
+    
+- model: reksis_dosbing.keyword
+  pk: 994
+  fields:
+    text: motion planning
+    
+- model: reksis_dosbing.keyword
+  pk: 995
+  fields:
+    text: polynomials
+    
+- model: reksis_dosbing.keyword
+  pk: 996
+  fields:
+    text: magnetic levitation
+    
+- model: reksis_dosbing.keyword
+  pk: 997
+  fields:
+    text: constrained trajectory generation
+    
+- model: reksis_dosbing.keyword
+  pk: 998
+  fields:
+    text: magnetic
+    
+- model: reksis_dosbing.keyword
+  pk: 999
+  fields:
+    text: levitation
+    
+- model: reksis_dosbing.keyword
+  pk: 1000
+  fields:
+    text: fault detection
+    
+- model: reksis_dosbing.keyword
+  pk: 1001
+  fields:
+    text: fault accommodation
+    
+- model: reksis_dosbing.keyword
+  pk: 1002
+  fields:
+    text: fir filter
+    
+- model: reksis_dosbing.keyword
+  pk: 1003
+  fields:
+    text: derivative estimation
+    
+- model: reksis_dosbing.keyword
+  pk: 1004
+  fields:
+    text: load balancing
+    
+- model: reksis_dosbing.keyword
+  pk: 1005
+  fields:
+    text: nginx
+    
+- model: reksis_dosbing.keyword
+  pk: 1006
+  fields:
+    text: keepalived
+    
+- model: reksis_dosbing.keyword
+  pk: 1007
+  fields:
+    text: minimum-time control
+    
+- model: reksis_dosbing.keyword
+  pk: 1008
+  fields:
+    text: input constraints
+    
+- model: reksis_dosbing.keyword
+  pk: 1009
+  fields:
+    text: state constraints
+    
+- model: reksis_dosbing.keyword
+  pk: 1010
+  fields:
+    text: differential flatness
+    
+- model: reksis_dosbing.keyword
+  pk: 1011
+  fields:
+    text: constraints
+    
+- model: reksis_dosbing.keyword
+  pk: 1012
+  fields:
+    text: project-based learning
+    
+- model: reksis_dosbing.keyword
+  pk: 1013
+  fields:
+    text: field programmable gate arrays
+    
+- model: reksis_dosbing.keyword
+  pk: 1014
+  fields:
+    text: education
+    
+- model: reksis_dosbing.keyword
+  pk: 1015
+  fields:
+    text: programmable logic design
+    
+- model: reksis_dosbing.keyword
+  pk: 1016
+  fields:
+    text: hardware design languages
+    
+- model: reksis_dosbing.keyword
+  pk: 1017
+  fields:
+    text: laboratories
+    
+- model: reksis_dosbing.keyword
+  pk: 1018
+  fields:
+    text: jaringan komputer
+    
+- model: reksis_dosbing.keyword
+  pk: 1019
+  fields:
+    text: privileges
+    
+- model: reksis_dosbing.keyword
+  pk: 1020
+  fields:
+    text: windows server 2008 enterprise
+    
+- model: reksis_dosbing.keyword
+  pk: 1021
+  fields:
+    text: time-optimal control
+    
+- model: reksis_dosbing.keyword
+  pk: 1022
+  fields:
+    text: ARRAY
+    
+- model: reksis_dosbing.keyword
+  pk: 1023
+  fields:
+    text: spanning tree protocol 
+    
+- model: reksis_dosbing.keyword
+  pk: 1024
+  fields:
+    text: spanning tree protocol attack
+    
+- model: reksis_dosbing.keyword
+  pk: 1025
+  fields:
+    text: VLAN
+    
+- model: reksis_dosbing.keyword
+  pk: 1026
+  fields:
+    text: vlan hopping
+    
+- model: reksis_dosbing.keyword
+  pk: 1027
+  fields:
+    text: constrained control
+    
+- model: reksis_dosbing.keyword
+  pk: 1028
+  fields:
+    text: minimum-time trajectory generation
+    
+- model: reksis_dosbing.keyword
+  pk: 1029
+  fields:
+    text: fault-tolerant control
+    
+- model: reksis_dosbing.keyword
+  pk: 1030
+  fields:
+    text: fault detection and isolation
+    
+- model: reksis_dosbing.keyword
+  pk: 1031
+  fields:
+    text: trajectory reconfiguration
+    
+- model: reksis_dosbing.keyword
+  pk: 1032
+  fields:
+    text: splines
+    
+- model: reksis_dosbing.keyword
+  pk: 1033
+  fields:
+    text: information systems integration
+    
+- model: reksis_dosbing.keyword
+  pk: 1034
+  fields:
+    text: data quality
+    
+- model: reksis_dosbing.keyword
+  pk: 1035
+  fields:
+    text: database design
+    
+- model: reksis_dosbing.keyword
+  pk: 1036
+  fields:
+    text: data synchronization
+    
+- model: reksis_dosbing.keyword
+  pk: 1037
+  fields:
+    text: spline
+    
+- model: reksis_dosbing.keyword
+  pk: 1038
+  fields:
+    text: trajectory
+    
+- model: reksis_dosbing.keyword
+  pk: 1039
+  fields:
+    text: estimation
+    
+- model: reksis_dosbing.keyword
+  pk: 1040
+  fields:
+    text: erospace electronics
+    
+- model: reksis_dosbing.keyword
+  pk: 1041
+  fields:
+    text: NOISE
+    
+- model: reksis_dosbing.keyword
+  pk: 1042
+  fields:
+    text: actuators
+    
+- model: reksis_dosbing.keyword
+  pk: 1043
+  fields:
+    text: adaptive filter
+    
+- model: reksis_dosbing.keyword
+  pk: 1044
+  fields:
+    text: agent-based model
+    
+- model: reksis_dosbing.keyword
+  pk: 1045
+  fields:
+    text: evacuation model
+    
+- model: reksis_dosbing.keyword
+  pk: 1046
+  fields:
+    text: evacuation decision
+    
+- model: reksis_dosbing.keyword
+  pk: 1047
+  fields:
+    text: risk perception model
+    
+- model: reksis_dosbing.keyword
+  pk: 1048
+  fields:
+    text: volcanic hazard
+    
+- model: reksis_dosbing.keyword
+  pk: 1049
+  fields:
+    text: synthetic population
+    
+- model: reksis_dosbing.keyword
+  pk: 1050
+  fields:
+    text: merapi
+    
+- model: reksis_dosbing.keyword
+  pk: 1051
+  fields:
+    text: volcanic risk management
+    
+- model: reksis_dosbing.keyword
+  pk: 1052
+  fields:
+    text: evacuation modelling
+    
+- model: reksis_dosbing.keyword
+  pk: 1053
+  fields:
+    text: agent-based modelling
+    
+- model: reksis_dosbing.keyword
+  pk: 1054
+  fields:
+    text: risk perception
+    
+- model: reksis_dosbing.keyword
+  pk: 1055
+  fields:
+    text: mount merapi
+    
+- model: reksis_dosbing.keyword
+  pk: 1056
+  fields:
+    text: groundwater management
+    
+- model: reksis_dosbing.keyword
+  pk: 1057
+  fields:
+    text: web-gis
+    
+- model: reksis_dosbing.keyword
+  pk: 1058
+  fields:
+    text: web gis
+    
+- model: reksis_dosbing.keyword
+  pk: 1059
+  fields:
+    text: spatial modeling
+    
+- model: reksis_dosbing.keyword
+  pk: 1060
+  fields:
+    text: well log modeling
+    
+- model: reksis_dosbing.keyword
+  pk: 1061
+  fields:
+    text: mysql spatial
+    
+- model: reksis_dosbing.keyword
+  pk: 1062
+  fields:
+    text: landslides
+    
+- model: reksis_dosbing.keyword
+  pk: 1063
+  fields:
+    text: remote sensing
+    
+- model: reksis_dosbing.keyword
+  pk: 1064
+  fields:
+    text: high-resolution imagery
+    
+- model: reksis_dosbing.keyword
+  pk: 1065
+  fields:
+    text: risk analysis
+    
+- model: reksis_dosbing.keyword
+  pk: 1066
+  fields:
+    text: vulnerability analysis
+    
+- model: reksis_dosbing.keyword
+  pk: 1067
+  fields:
+    text: staged evacuation
+    
+- model: reksis_dosbing.keyword
+  pk: 1068
+  fields:
+    text: simultaneous evacuation
+    
+- model: reksis_dosbing.keyword
+  pk: 1069
+  fields:
+    text: evacuation management
+    
+- model: reksis_dosbing.keyword
+  pk: 1070
+  fields:
+    text: agent based models
+    
+- model: reksis_dosbing.keyword
+  pk: 1071
+  fields:
+    text: geographic information systems
+    
+- model: reksis_dosbing.keyword
+  pk: 1072
+  fields:
+    text: public and occupational health and safety
+    
+- model: reksis_dosbing.keyword
+  pk: 1073
+  fields:
+    text: emergency response
+    
+- model: reksis_dosbing.keyword
+  pk: 1074
+  fields:
+    text: volcanic eruption
+    
+- model: reksis_dosbing.keyword
+  pk: 1075
+  fields:
+    text: evacuation shelter selection-allocation
+    
+- model: reksis_dosbing.keyword
+  pk: 1076
+  fields:
+    text: DSS
+    
+- model: reksis_dosbing.keyword
+  pk: 1077
+  fields:
+    text: scalable vector graphic
+    
+- model: reksis_dosbing.keyword
+  pk: 1078
+  fields:
+    text: road network
+    
+- model: reksis_dosbing.keyword
+  pk: 1079
+  fields:
+    text: ABM
+    
+- model: reksis_dosbing.keyword
+  pk: 1080
+  fields:
+    text: volcanic crisis
+    
+- model: reksis_dosbing.keyword
+  pk: 1081
+  fields:
+    text: risk estimation
+    
+- model: reksis_dosbing.keyword
+  pk: 1082
+  fields:
+    text: spatio-temporal modeling
+    
+- model: reksis_dosbing.keyword
+  pk: 1083
+  fields:
+    text: MCE
+    
+- model: reksis_dosbing.keyword
+  pk: 1084
+  fields:
+    text: tuberculosis
+    
+- model: reksis_dosbing.keyword
+  pk: 1085
+  fields:
+    text: HIV
+    
+- model: reksis_dosbing.keyword
+  pk: 1086
+  fields:
+    text: recording
+    
+- model: reksis_dosbing.keyword
+  pk: 1087
+  fields:
+    text: reporting
+    
+- model: reksis_dosbing.keyword
+  pk: 1088
+  fields:
+    text: SDSS
+    
+- model: reksis_dosbing.keyword
+  pk: 1089
+  fields:
+    text: lahar
+    
+- model: reksis_dosbing.keyword
+  pk: 1090
+  fields:
+    text: manajemen bencana
+    
+- model: reksis_dosbing.keyword
+  pk: 1091
+  fields:
+    text: dan mcda 
+    
+- model: reksis_dosbing.keyword
+  pk: 1092
+  fields:    
+    text: evolutionary algorithms
+    
+- model: reksis_dosbing.keyword
+  pk: 1093
+  fields:
+    text: harmonics
+      
+    
+- model: reksis_dosbing.keyword
+  pk: 1094
+  fields:
+    text: large system
+    
+- model: reksis_dosbing.keyword
+  pk: 1095
+  fields:
+    text: 'load tap changer and shunt capacitors'
+    
+    
+- model: reksis_dosbing.keyword
+  pk: 10
+  fields:
+    text: optimal scheduling
+      
+    
+- model: reksis_dosbing.keyword
+  pk: 1097
+  fields:
+    text: power generation scheduling
+    
+- model: reksis_dosbing.keyword
+  pk: 1098
+  fields:
+    text: on load tap changers
+    
+- model: reksis_dosbing.keyword
+  pk: 1099
+  fields:
+    text: load distribution
+    
+- model: reksis_dosbing.keyword
+  pk: 1100
+  fields:
+    text: load flow control
+    
+- model: reksis_dosbing.keyword
+  pk: 1101
+  fields:
+    text: fuzzy reasoning
+    
+- model: reksis_dosbing.keyword
+  pk: 1102
+  fields:
+    text: harmonic distortion
+    
+- model: reksis_dosbing.keyword
+  pk: 1103
+  fields:
+    text: power distribution control
+    
+- model: reksis_dosbing.keyword
+  pk: 1104
+  fields:
+    text: nonlinear control systems
+    
+- model: reksis_dosbing.keyword
+  pk: 1105
+  fields:
+    text: genetic algorithms
+    
+- model: reksis_dosbing.keyword
+  pk: 1106
+  fields:
+    text: power system harmonics
+    
+- model: reksis_dosbing.keyword
+  pk: 1107
+  fields:
+    text: capacitors
+    
+- model: reksis_dosbing.keyword
+  pk: 1108
+  fields:
+    text: accuracy
+    
+- model: reksis_dosbing.keyword
+  pk: 1109
+  fields:
+    text: decoupled
+    
+- model: reksis_dosbing.keyword
+  pk: 1110
+  fields:
+    text: efficiency
+    
+- model: reksis_dosbing.keyword
+  pk: 1111
+  fields:
+    text: harmonic power flow
+    
+- model: reksis_dosbing.keyword
+  pk: 1112
+  fields:
+    text: multiple nonlinear loads
+    
+- model: reksis_dosbing.keyword
+  pk: 1113
+  fields:
+    text: forward-backward propagation
+    
+- model: reksis_dosbing.keyword
+  pk: 1114
+  fields:
+    text: equivalent injection current
+    
+- model: reksis_dosbing.keyword
+  pk: 1115
+  fields:
+    text: unbalance system
+    
+- model: reksis_dosbing.keyword
+  pk: 1116
+  fields:
+    text: kapasitor 
+    
+- model: reksis_dosbing.keyword
+  pk: 1117
+  fields:
+    text: algoritma genetik 
+    
+- model: reksis_dosbing.keyword
+  pk: 1118
+  fields:
+    text: penjadwalan prosesor 
+    
+- model: reksis_dosbing.keyword
+  pk: 1119
+  fields:
+    text: kehilangan energi 
+    
+- model: reksis_dosbing.keyword
+  pk: 1120
+  fields:
+    text: tegangan 
+    
+- model: reksis_dosbing.keyword
+  pk: 1121
+  fields:
+    text: kualitas daya 
+    
+- model: reksis_dosbing.keyword
+  pk: 1122
+  fields:
+    text: harmonik sistem tenaga 
+    
+- model: reksis_dosbing.keyword
+  pk: 1123
+  fields:
+    text: arus beban 
+    
+- model: reksis_dosbing.keyword
+  pk: 1124
+  fields:
+    text: pengkodean 
+    
+- model: reksis_dosbing.keyword
+  pk: 1125
+  fields:
+    text: pemodelan komputasi
+    
+- model: reksis_dosbing.keyword
+  pk: 1126
+  fields:
+    text: frekuensi variabel 
+    
+- model: reksis_dosbing.keyword
+  pk: 1127
+  fields:
+    text: PWM 
+    
+- model: reksis_dosbing.keyword
+  pk: 1128
+  fields:
+    text: sistem penggerak 
+    
+- model: reksis_dosbing.keyword
+  pk: 1129
+  fields:
+    text: THD 
+    
+- model: reksis_dosbing.keyword
+  pk: 1130
+  fields:
+    text: filter pasif dan aliran daya harmonik
+    
+- model: reksis_dosbing.keyword
+  pk: 1131
+  fields:
+    text: irigasi
+    
+- model: reksis_dosbing.keyword
+  pk: 1132
+  fields:
+    text: motor dc
+    
+- model: reksis_dosbing.keyword
+  pk: 1133
+  fields:
+    text: manajemen
+    
+- model: reksis_dosbing.keyword
+  pk: 1134
+  fields:
+    text: ultrasonik
+    
+- model: reksis_dosbing.keyword
+  pk: 1135
+  fields:
+    text: sensor hujan
+    
+- model: reksis_dosbing.keyword
+  pk: 1136
+  fields:
+    text: sensor ldr
+    
+- model: reksis_dosbing.keyword
+  pk: 1137
+  fields:
+    text: otomatis
+    
+- model: reksis_dosbing.keyword
+  pk: 1138
+  fields:
+    text: motor universal
+    
+- model: reksis_dosbing.keyword
+  pk: 1139
+  fields:
+    text: renewable plant
+    
+- model: reksis_dosbing.keyword
+  pk: 1140
+  fields:
+    text: wind and solar energy
+    
+- model: reksis_dosbing.keyword
+  pk: 1141
+  fields:
+    text: hybrid
+    
+- model: reksis_dosbing.keyword
+  pk: 1142
+  fields:
+    text: forward/backward
+    
+- model: reksis_dosbing.keyword
+  pk: 1143
+  fields:
+    text: genetic algorithm
+    
+- model: reksis_dosbing.keyword
+  pk: 1144
+  fields:
+    text: optimal dispatch
+    
+- model: reksis_dosbing.keyword
+  pk: 1145
+  fields:
+    text: reactive power /voltage control
+    
+- model: reksis_dosbing.keyword
+  pk: 1146
+  fields:
+    text: unbalanced
+    
+- model: reksis_dosbing.keyword
+  pk: 1147
+  fields:
+    text: voltage
+    
+- model: reksis_dosbing.keyword
+  pk: 1148
+  fields:
+    text: solar photovoltaic
+    
+- model: reksis_dosbing.keyword
+  pk: 1149
+  fields:
+    text: graphic information
+    
+- model: reksis_dosbing.keyword
+  pk: 1150
+  fields:
+    text: statistics
+    
+- model: reksis_dosbing.keyword
+  pk: 1151
+  fields:
+    text: torque
+    
+- model: reksis_dosbing.keyword
+  pk: 1152
+  fields:
+    text: motor 1 phase
+    
+- model: reksis_dosbing.keyword
+  pk: 1153
+  fields:
+    text: RPM
+    
+- model: reksis_dosbing.keyword
+  pk: 1154
+  fields:
+    text: power
+    
+- model: reksis_dosbing.keyword
+  pk: 1155
+  fields:
+    text: harmonic
+    
+- model: reksis_dosbing.keyword
+  pk: 1156
+  fields:
+    text: passive filter
+    
+- model: reksis_dosbing.keyword
+  pk: 1157
+  fields:
+    text: decoupled approach
+    
+- model: reksis_dosbing.keyword
+  pk: 1158
+  fields:
+    text: controllable devices
+    
+- model: reksis_dosbing.keyword
+  pk: 1159
+  fields:
+    text: intelligent optimization technique
+    
+- model: reksis_dosbing.keyword
+  pk: 1160
+  fields:
+    text: losses minimization
+    
+- model: reksis_dosbing.keyword
+  pk: 1161
+  fields:
+    text: optimal system operation
+    
+- model: reksis_dosbing.keyword
+  pk: 1162
+  fields:
+    text: unbalanced system
+    
+- model: reksis_dosbing.keyword
+  pk: 1163
+  fields:
+    text: voltage improvement
+    
+- model: reksis_dosbing.keyword
+  pk: 1164
+  fields:
+    text: hybrid ga-fuzzy
+    
+- model: reksis_dosbing.keyword
+  pk: 1165
+  fields:
+    text: algorithm
+    
+- model: reksis_dosbing.keyword
+  pk: 1166
+  fields:
+    text: distribution system
+    
+- model: reksis_dosbing.keyword
+  pk: 1167
+  fields:
+    text: LDR 
+    
+- model: reksis_dosbing.keyword
+  pk: 1168
+  fields:
+    text: pemanas air
+    
+- model: reksis_dosbing.keyword
+  pk: 1169
+  fields:
+    text: tenaga matahari
+    
+- model: reksis_dosbing.keyword
+  pk: 1170
+  fields:
+    text: BLDC
+    
+- model: reksis_dosbing.keyword
+  pk: 1171
+  fields:
+    text: efisiensi
+    
+- model: reksis_dosbing.keyword
+  pk: 1172
+  fields:
+    text: mobil listrik
+    
+- model: reksis_dosbing.keyword
+  pk: 1173
+  fields:
+    text: prototipe
+    
+- model: reksis_dosbing.keyword
+  pk: 1174
+  fields:
+    text: turbin angin
+    
+- model: reksis_dosbing.keyword
+  pk: 1175
+  fields:
+    text: generator induksi
+    
+- model: reksis_dosbing.keyword
+  pk: 1176
+  fields:
+    text: penerangan jalan
+    
+- model: reksis_dosbing.keyword
+  pk: 1177
+  fields:
+    text: otamasi
+    
+- model: reksis_dosbing.keyword
+  pk: 1178
+  fields:
+    text: cuci mobil
+    
+- model: reksis_dosbing.keyword
+  pk: 1179
+  fields:
+    text: apotek
+    
+- model: reksis_dosbing.keyword
+  pk: 1180
+  fields:
+    text: apoteker
+    
+- model: reksis_dosbing.keyword
+  pk: 1181
+  fields:
+    text: kontrol invetory
+    
+- model: reksis_dosbing.keyword
+  pk: 1182
+  fields:
+    text: pengujian black-box
+    
+- model: reksis_dosbing.keyword
+  pk: 1183
+  fields:
+    text: introduksi teknologi tepat guna
+    
+- model: reksis_dosbing.keyword
+  pk: 1184
+  fields:
+    text: emergency power supply
+    
+- model: reksis_dosbing.keyword
+  pk: 1185
+  fields:
+    text: automatic transfer switch
+    
+- model: reksis_dosbing.keyword
+  pk: 1186
+  fields:
+    text: musim tanam
+    
+- model: reksis_dosbing.keyword
+  pk: 1187
+  fields:
+    text: kekeringan
+    
+- model: reksis_dosbing.keyword
+  pk: 1188
+  fields:
+    text: padi inpago
+    
+- model: reksis_dosbing.keyword
+  pk: 1189
+  fields:
+    text: kebutuhan air
+    
+- model: reksis_dosbing.keyword
+  pk: 1190
+  fields:
+    text: hybrid system
+    
+- model: reksis_dosbing.keyword
+  pk: 1191
+  fields:
+    text: modified synchronous generator
+    
+- model: reksis_dosbing.keyword
+  pk: 1192
+  fields:
+    text: photovoltaic panel
+    
+- model: reksis_dosbing.keyword
+  pk: 1193
+  fields:
+    text: stand-alone
+    
+- model: reksis_dosbing.keyword
+  pk: 1194
+  fields:
+    text: street lighting
+    
+- model: reksis_dosbing.keyword
+  pk: 1195
+  fields:
+    text: wind generation
+    
+- model: reksis_dosbing.keyword
+  pk: 1196
+  fields:
+    text: water availability
+    
+- model: reksis_dosbing.keyword
+  pk: 1197
+  fields:
+    text: submersible pump
+    
+- model: reksis_dosbing.keyword
+  pk: 1198
+  fields:
+    text: deep well
+    
+- model: reksis_dosbing.keyword
+  pk: 1199
+  fields:
+    text: economical aspect
+    
+- model: reksis_dosbing.keyword
+  pk: 1200
+  fields:
+    text: arduino nano
+    
+- model: reksis_dosbing.keyword
+  pk: 1201
+  fields:
+    text: disinfektan
+    
+- model: reksis_dosbing.keyword
+  pk: 1202
+  fields:
+    text: penyemprotan
+    
+- model: reksis_dosbing.keyword
+  pk: 1203
+  fields:
+    text: sensor proximity
+    
+- model: reksis_dosbing.keyword
+  pk: 1204
+  fields:
+    text: virus
+    
+- model: reksis_dosbing.keyword
+  pk: 1205
+  fields:
+    text: operation control
+    
+- model: reksis_dosbing.keyword
+  pk: 1206
+  fields:
+    text: fuzzy inclusion
+    
+- model: reksis_dosbing.keyword
+  pk: 1207
+  fields:
+    text: penyakit jantung
+    
+- model: reksis_dosbing.keyword
+  pk: 1208
+  fields:
+    text: baterai lithium-ion
+    
+- model: reksis_dosbing.keyword
+  pk: 1209
+  fields:
+    text: motor bldc
+    
+- model: reksis_dosbing.keyword
+  pk: 1210
+  fields:
+    text: vertikal terkopel
+    
+- model: reksis_dosbing.keyword
+  pk: 1211
+  fields:
+    text: generator sinkron
+    
+- model: reksis_dosbing.keyword
+  pk: 1212
+  fields:
+    text: clinic information system
+    
+- model: reksis_dosbing.keyword
+  pk: 1213
+  fields:
+    text: electric car
+    
+- model: reksis_dosbing.keyword
+  pk: 1214
+  fields:
+    text: instrumentation
+    
+- model: reksis_dosbing.keyword
+  pk: 1215
+  fields:
+    text: medical service reservation
+    
+- model: reksis_dosbing.keyword
+  pk: 1216
+  fields:
+    text: mobile application
+    
+- model: reksis_dosbing.keyword
+  pk: 1217
+  fields:
+    text: pku muhammadiyah kutoarjo
+    
+
+- model: reksis_dosbing.keyword
+  pk: 1218
+  fields:
+    text: realtime databse
+    
+    
+- model: reksis_dosbing.keyword
+  pk: 1219
+  fields:
+    text: power plant
+    
+- model: reksis_dosbing.keyword
+  pk: 1220
+  fields:
+    text: renewable energy
+    
+- model: reksis_dosbing.keyword
+  pk: 1221
+  fields:
+    text: wind power
+    
+- model: reksis_dosbing.keyword
+  pk: 1222
+  fields:
+    text: kewilayahan
+    
+- model: reksis_dosbing.keyword
+  pk: 1223
+  fields:
+    text: motor ac
+    
+- model: reksis_dosbing.keyword
+  pk: 1224
+  fields:
+    text: plc omron cp1e
+    
+- model: reksis_dosbing.keyword
+  pk: 1225
+  fields:
+    text: power supply
+    
+- model: reksis_dosbing.keyword
+  pk: 1226
+  fields:
+    text: kompresor
+    
+- model: reksis_dosbing.keyword
+  pk: 1227
+  fields:
+    text: patient medical service
+    
+- model: reksis_dosbing.keyword
+  pk: 1228
+  fields:
+    text: web-based application
+    
+- model: reksis_dosbing.keyword
+  pk: 1229
+  fields:
+    text: accounting
+    
+- model: reksis_dosbing.keyword
+  pk: 1230
+  fields:
+    text: system
+    
+- model: reksis_dosbing.keyword
+  pk: 1231
+  fields:
+    text: controller
+    
+- model: reksis_dosbing.keyword
+  pk: 1232
+  fields:
+    text: dc chopper
+    
+- model: reksis_dosbing.keyword
+  pk: 1233
+  fields:
+    text: electric motor cycle
+    
+- model: reksis_dosbing.keyword
+  pk: 1234
+  fields:
+    text: transportation
+    
+- model: reksis_dosbing.keyword
+  pk: 1235
+  fields:
+    text: filter
+    
+- model: reksis_dosbing.keyword
+  pk: 1236
+  fields:
+    text: mitigation
+    
+- model: reksis_dosbing.keyword
+  pk: 1237
+  fields:
+    text: location
+    
+- model: reksis_dosbing.keyword
+  pk: 1238
+  fields:
+    text: asesmen ukuran 
+    
+- model: reksis_dosbing.keyword
+  pk: 1239
+  fields:
+    text: linierasesmen
+    
+- model: reksis_dosbing.keyword
+  pk: 1240
+  fields:
+    text: pemotong rumput
+    
+- model: reksis_dosbing.keyword
+  pk: 1241
+  fields:
+    text: AKI
+    
+- model: reksis_dosbing.keyword
+  pk: 1242
+  fields:
+    text: energi
+    
+- model: reksis_dosbing.keyword
+  pk: 1243
+  fields:
+    text: probabilistik
+    
+- model: reksis_dosbing.keyword
+  pk: 1244
+  fields:
+    text: islamic international boarding school kh mas mansur
+    
+- model: reksis_dosbing.keyword
+  pk: 1245
+  fields:
+    text: pemodelan komponen
+    
+- model: reksis_dosbing.keyword
+  pk: 1246
+  fields:
+    text: arus injeksi
+    
+- model: reksis_dosbing.keyword
+  pk: 1247
+  fields:
+    text: produksi
+    
+- model: reksis_dosbing.keyword
+  pk: 1248
+  fields:
+    text: hybrid fuzzy-genetic algorithm
+    
+- model: reksis_dosbing.keyword
+  pk: 1249
+  fields:
+    text: analytic hierarchy process
+    
+- model: reksis_dosbing.keyword
+  pk: 1250
+  fields:
+    text: system unbalanced
+    
+- model: reksis_dosbing.keyword
+  pk: 1251
+  fields:
+    text: entative electrical
+    
+- model: reksis_dosbing.keyword
+  pk: 1252
+  fields:
+    text: algoritma genetika-fuzzy
+    
+- model: reksis_dosbing.keyword
+  pk: 1253
+  fields:
+    text: open connectivity
+    
+- model: reksis_dosbing.keyword
+  pk: 1254
+  fields:
+    text: power flow
+    
+- model: reksis_dosbing.keyword
+  pk: 1255
+  fields:
+    text: self coded program
+    
+- model: reksis_dosbing.keyword
+  pk: 1256
+  fields:
+    text: radial distribution system
+    
+- model: reksis_dosbing.keyword
+  pk: 1257
+  fields:
+    text: forward–backward
+    
+- model: reksis_dosbing.keyword
+  pk: 1258
+  fields:
+    text: program penelusuran
+    
+- model: reksis_dosbing.keyword
+  pk: 1259
+  fields:
+    text: pencurian daya listrik
+    
+- model: reksis_dosbing.keyword
+  pk: 1260
+  fields:
+    text: energy loss
+    
+- model: reksis_dosbing.keyword
+  pk: 1261
+  fields:
+    text: loss reduction
+    
+- model: reksis_dosbing.keyword
+  pk: 1262
+  fields:
+    text: ltc and shunt capacitors
+    
+- model: reksis_dosbing.keyword
+  pk: 1263
+  fields:
+    text: harmonic filter
+    
+- model: reksis_dosbing.keyword
+  pk: 1264
+  fields:
+    text: system enhancement
+    
+- model: reksis_dosbing.keyword
+  pk: 1265
+  fields:
+    text: voltage distortion. 
+    
+- model: reksis_dosbing.keyword
+  pk: 1266
+  fields:
+    text: logika fuzzy
+    
+- model: reksis_dosbing.keyword
+  pk: 1267
+  fields:
+    text: pemrograman dinamik
+    
+- model: reksis_dosbing.keyword
+  pk: 1268
+  fields:
+    text: distrosi harmonik
+    
+- model: reksis_dosbing.keyword
+  pk: 1269
+  fields:
+    text: daya reaktif
+    
+- model: reksis_dosbing.keyword
+  pk: 1270
+  fields:
+    text: penempatan kapasitor
+    
+- model: reksis_dosbing.keyword
+  pk: 1271
+  fields:
+    text: fuzzy set theory
+    
+- model: reksis_dosbing.keyword
+  pk: 1272
+  fields:
+    text: dynamic programing
+    
+- model: reksis_dosbing.keyword
+  pk: 1273
+  fields:
+    text: unit commitment
+    
+- model: reksis_dosbing.keyword
+  pk: 1274
+  fields:
+    text: electric vehicle
+    
+- model: reksis_dosbing.keyword
+  pk: 1275
+  fields:
+    text: bldc motor
+    
+- model: reksis_dosbing.keyword
+  pk: 1276
+  fields:
+    text: BMS
+    
+- model: reksis_dosbing.keyword
+  pk: 1277
+  fields:
+    text: efficient energy
+    
+- model: reksis_dosbing.keyword
+  pk: 1278
+  fields:
+    text: unbalance power flow analysis
+    
+- model: reksis_dosbing.keyword
+  pk: 1279
+  fields:
+    text: stated preference
+    
+- model: reksis_dosbing.keyword
+  pk: 1280
+  fields:
+    text: port choice
+    
+- model: reksis_dosbing.keyword
+  pk: 1281
+  fields:
+    text: inland mode choice
+    
+- model: reksis_dosbing.keyword
+  pk: 1282
+  fields:
+    text: intermodal freight transport
+    
+- model: reksis_dosbing.keyword
+  pk: 1283
+  fields:
+    text: persediaan
+    
+- model: reksis_dosbing.keyword
+  pk: 1284
+  fields:
+    text: kadaluwarsa
+    
+- model: reksis_dosbing.keyword
+  pk: 1285
+  fields:
+    text: discount
+    
+- model: reksis_dosbing.keyword
+  pk: 1286
+  fields:
+    text: EOQ
+    
+- model: reksis_dosbing.keyword
+  pk: 1287
+  fields:
+    text: budaya
+    
+- model: reksis_dosbing.keyword
+  pk: 1288
+  fields:
+    text: industri 4.0
+    
+- model: reksis_dosbing.keyword
+  pk: 1289
+  fields:
+    text: industry kreatif
+    
+- model: reksis_dosbing.keyword
+  pk: 1290
+  fields:
+    text: peluang dan tantangan
+    
+- model: reksis_dosbing.keyword
+  pk: 1291
+  fields:
+    text: group technology systems
+    
+- model: reksis_dosbing.keyword
+  pk: 1292
+  fields:
+    text: simulasi
+    
+- model: reksis_dosbing.keyword
+  pk: 1293
+  fields:
+    text: layout
+    
+- model: reksis_dosbing.keyword
+  pk: 1294
+  fields:
+    text: material handling
+    
+- model: reksis_dosbing.keyword
+  pk: 1295
+  fields:
+    text: integer programming
+    
+- model: reksis_dosbing.keyword
+  pk: 1296
+  fields:
+    text: cognitive science
+    
+- model: reksis_dosbing.keyword
+  pk: 1297
+  fields:
+    text: chromosomes
+    
+- model: reksis_dosbing.keyword
+  pk: 1298
+  fields:
+    text: evolutionary computation
+    
+- model: reksis_dosbing.keyword
+  pk: 1299
+  fields:
+    text: keripik bayam
+    
+- model: reksis_dosbing.keyword
+  pk: 1300
+  fields:
+    text: nilai tambah
+    
+- model: reksis_dosbing.keyword
+  pk: 1301
+  fields:
+    text: metode hayami
+    
+- model: reksis_dosbing.keyword
+  pk: 1302
+  fields:
+    text: analisis risiko
+    
+- model: reksis_dosbing.keyword
+  pk: 1303
+  fields:
+    text: house of risk
+    
+- model: reksis_dosbing.keyword
+  pk: 1304
+  fields:
+    text: exporters’
+    
+- model: reksis_dosbing.keyword
+  pk: 1305
+  fields:
+    text: forwarders’ 
+    
+- model: reksis_dosbing.keyword
+  pk: 1306
+  fields:
+    text: analisis preferensi
+    
+- model: reksis_dosbing.keyword
+  pk: 1307
+  fields:
+    text: belanja online
+    
+- model: reksis_dosbing.keyword
+  pk: 1308
+  fields:
+    text: strategi pemasaran
+    
+- model: reksis_dosbing.keyword
+  pk: 1309
+  fields:
+    text: bauran pemasaran
+    
+- model: reksis_dosbing.keyword
+  pk: 1310
+  fields:
+    text: validitas
+    
+- model: reksis_dosbing.keyword
+  pk: 1311
+  fields:
+    text: reliabilitas
+    
+- model: reksis_dosbing.keyword
+  pk: 1312
+  fields:
+    text: AHU
+    
+- model: reksis_dosbing.keyword
+  pk: 1313
+  fields:
+    text: produktivitas
+    
+- model: reksis_dosbing.keyword
+  pk: 1314
+  fields:
+    text: green productivity
+    
+- model: reksis_dosbing.keyword
+  pk: 1315
+  fields:
+    text: limbah tahu
+    
+- model: reksis_dosbing.keyword
+  pk: 1316
+  fields:
+    text: filtrasi dan fitoremediasi
+    
+- model: reksis_dosbing.keyword
+  pk: 1317
+  fields:
+    text: containerised
+    
+- model: reksis_dosbing.keyword
+  pk: 1318
+  fields:
+    text: transport
+    
+- model: reksis_dosbing.keyword
+  pk: 1319
+  fields:
+    text: freight transport
+    
+- model: reksis_dosbing.keyword
+  pk: 1320
+  fields:    
+    text: LDA
+
+    
+- model: reksis_dosbing.keyword
+  pk: 1323
+  fields:
+    text: system spreadsheet modeling
+    
+- model: reksis_dosbing.keyword
+  pk: 1324
+  fields:
+    text: pembakuan kegiatan
+    
+- model: reksis_dosbing.keyword
+  pk: 1325
+  fields:
+    text: waktu set-up
+    
+- model: reksis_dosbing.keyword
+  pk: 1326
+  fields:
+    text: 5S
+    
+- model: reksis_dosbing.keyword
+  pk: 1327
+  fields:
+    text: algoritma k-means
+    
+- model: reksis_dosbing.keyword
+  pk: 1328
+  fields:
+    text: jurusan sma
+    
+- model: reksis_dosbing.keyword
+  pk: 1329
+  fields:
+    text: c4.5 algorithm
+    
+- model: reksis_dosbing.keyword
+  pk: 1330
+  fields:
+    text: degree of excellence
+    
+- model: reksis_dosbing.keyword
+  pk: 1331
+  fields:
+    text: analisa
+    
+- model: reksis_dosbing.keyword
+  pk: 1332
+  fields:
+    text: FILM
+    
+- model: reksis_dosbing.keyword
+  pk: 1333
+  fields:
+    text: pohon keputusan
+    
+- model: reksis_dosbing.keyword
+  pk: 1334
+  fields:
+    text: random forest
+    
+- model: reksis_dosbing.keyword
+  pk: 1335
+  fields:
+    text: sistem klasifikasi
+    
+- model: reksis_dosbing.keyword
+  pk: 1336
+  fields:
+    text: tingkat penerimaan konsumen
+    
+- model: reksis_dosbing.keyword
+  pk: 1337
+  fields:
+    text: naive bayes
+    
+- model: reksis_dosbing.keyword
+  pk: 1338
+  fields:
+    text: masa studi
+    
+- model: reksis_dosbing.keyword
+  pk: 1339
+  fields:
+    text: github projects
+    
+- model: reksis_dosbing.keyword
+  pk: 1340
+  fields:
+    text: topological analysis 
+    
+- model: reksis_dosbing.keyword
+  pk: 1341
+  fields:
+    text: chemotherapy
+    
+- model: reksis_dosbing.keyword
+  pk: 1342
+  fields:
+    text: therapeutics
+    
+- model: reksis_dosbing.keyword
+  pk: 1343
+  fields:
+    text: educational assessment
+    
+- model: reksis_dosbing.keyword
+  pk: 1344
+  fields:
+    text: kanker payudara
+    
+- model: reksis_dosbing.keyword
+  pk: 1345
+  fields:
+    text: pemilihan sekolah
+    
+- model: reksis_dosbing.keyword
+  pk: 1346
+  fields:
+    text: sekolah menengah tingkat atas
+    
+- model: reksis_dosbing.keyword
+  pk: 1347
+  fields:
+    text: manajemen data akademik
+    
+- model: reksis_dosbing.keyword
+  pk: 1348
+  fields:
+    text: paud aisyiyah 3 salatiga
+    
+- model: reksis_dosbing.keyword
+  pk: 1349
+  fields:
+    text: pelatihan
+    
+- model: reksis_dosbing.keyword
+  pk: 1350
+  fields:
+    text: sistem informasi akademik
+    
+- model: reksis_dosbing.keyword
+  pk: 1351
+  fields:
+    text: anak
+    
+- model: reksis_dosbing.keyword
+  pk: 1352
+  fields:
+    text: sosialisasi
+    
+- model: reksis_dosbing.keyword
+  pk: 1353
+  fields:
+    text: teknologi komputer
+    
+- model: reksis_dosbing.keyword
+  pk: 1354
+  fields:
+    text: permainan edukatif
+    
+- model: reksis_dosbing.keyword
+  pk: 1355
+  fields:
+    text: kecerdasan. 
+    
+- model: reksis_dosbing.keyword
+  pk: 1356
+  fields:
+    text: length of study
+    
+- model: reksis_dosbing.keyword
+  pk: 1357
+  fields:
+    text: class concentration
+    
+- model: reksis_dosbing.keyword
+  pk: 1358
+  fields:
+    text: clustering method
+    
+- model: reksis_dosbing.keyword
+  pk: 1359
+  fields:
+    text: k-means  algorithms
+    
+- model: reksis_dosbing.keyword
+  pk: 1360
+  fields:
+    text: majoring
+    
+- model: reksis_dosbing.keyword
+  pk: 1361
+  fields:
+    text: software spss
+    
+- model: reksis_dosbing.keyword
+  pk: 1362
+  fields:
+    text: regresi linear berganda
+    
+- model: reksis_dosbing.keyword
+  pk: 1363
+  fields:
+    text: kecerdasan
+    
+- model: reksis_dosbing.keyword
+  pk: 1364
+  fields:
+    text: batik mahkota
+    
+- model: reksis_dosbing.keyword
+  pk: 1365
+  fields:
+    text: daya beli konsumen
+    
+- model: reksis_dosbing.keyword
+  pk: 1366
+  fields:
+    text: listrik
+    
+- model: reksis_dosbing.keyword
+  pk: 1367
+  fields:
+    text: kota salatiga
+    
+- model: reksis_dosbing.keyword
+  pk: 1369
+  fields:
+    text: pengujian
+    
+- model: reksis_dosbing.keyword
+  pk: 1370
+  fields:
+    text: regresi linier
+    
+- model: reksis_dosbing.keyword
+  pk: 1371
+  fields:
+    text: tingkat penerimaan
+    
+- model: reksis_dosbing.keyword
+  pk: 1372
+  fields:
+    text: siswa bermasalah
+    
+- model: reksis_dosbing.keyword
+  pk: 1373
+  fields:
+    text: prediksi
+    
+- model: reksis_dosbing.keyword
+  pk: 1374
+  fields:
+    text: analisis
+    
+- model: reksis_dosbing.keyword
+  pk: 1375
+  fields:
+    text: software documentation
+    
+- model: reksis_dosbing.keyword
+  pk: 1376
+  fields:
+    text: software quality
+    
+- model: reksis_dosbing.keyword
+  pk: 1377
+  fields:
+    text: software analytics
+    
+- model: reksis_dosbing.keyword
+  pk: 1378
+  fields:
+    text: self-admitted technical debt
+    
+- model: reksis_dosbing.keyword
+  pk: 1379
+  fields:
+    text: eclipse
+    
+- model: reksis_dosbing.keyword
+  pk: 1380
+  fields:
+    text: forums
+    
+- model: reksis_dosbing.keyword
+  pk: 1381
+  fields:
+    text: participation 
+    
+- model: reksis_dosbing.keyword
+  pk: 1382
+  fields:
+    text: content
+    
+- model: reksis_dosbing.keyword
+  pk: 1383
+  fields:
+    text: sentiment
+    
+- model: reksis_dosbing.keyword
+  pk: 1384
+  fields:
+    text: code comments
+    
+- model: reksis_dosbing.keyword
+  pk: 1385
+  fields:
+    text: algorithms
+    
+- model: reksis_dosbing.keyword
+  pk: 1386
+  fields:
+    text: floss
+    
+- model: reksis_dosbing.keyword
+  pk: 1387
+  fields:
+    text: n-gram idf
+    
+- model: reksis_dosbing.keyword
+  pk: 1388
+  fields:
+    text: kontinjensi resiko proyek
+    
+- model: reksis_dosbing.keyword
+  pk: 1389
+  fields:
+    text: biaya penanganan resiko
+    
+- model: reksis_dosbing.keyword
+  pk: 1390
+  fields:
+    text: strategi penanganan resiko
+    
+- model: reksis_dosbing.keyword
+  pk: 1391
+  fields:
+    text: PSO
+    
+- model: reksis_dosbing.keyword
+  pk: 1392
+  fields:
+    text: matriks resiko
+    
+- model: reksis_dosbing.keyword
+  pk: 1393
+  fields:
+    text: sistem prediksi
+    
+- model: reksis_dosbing.keyword
+  pk: 1394
+  fields:
+    text: routing protocol
+    
+- model: reksis_dosbing.keyword
+  pk: 1395
+  fields:
+    text: rsu-advertisement 
+    
+- model: reksis_dosbing.keyword
+  pk: 1396
+  fields:
+    text: copy move
+    
+- model: reksis_dosbing.keyword
+  pk: 1397
+  fields:
+    text: gaussian filter
+    
+- model: reksis_dosbing.keyword
+  pk: 1398
+  fields:
+    text: laplacian filter
+    
+- model: reksis_dosbing.keyword
+  pk: 1399
+  fields:
+    text: metode exhaustive search
+    
+- model: reksis_dosbing.keyword
+  pk: 1400
+  fields:
+    text: autocorrelation
+    
+- model: reksis_dosbing.keyword
+  pk: 1401
+  fields:
+    text: kernel morphology
+    
+- model: reksis_dosbing.keyword
+  pk: 1402
+  fields:
+    text: koperasi unit desa
+    
+- model: reksis_dosbing.keyword
+  pk: 1403
+  fields:
+    text: SUSU
+      
+    
+- model: reksis_dosbing.keyword
+  pk: 1404
+  fields:
+    text: sekolah menengah atas
+    
+- model: reksis_dosbing.keyword
+  pk: 1405
+  fields:
+    text: bureau of statistics center
+    
+    
+- model: reksis_dosbing.keyword
+  pk: 14
+  fields:
+    text: welfare level
+      
+    
+- model: reksis_dosbing.keyword
+  pk: 1407
+  fields:
+    text: algoritma id3
+    
+   
+- model: reksis_dosbing.keyword
+  pk: 1409
+  fields:
+    text: sectio caesarea        
+    
+- model: reksis_dosbing.keyword
+  pk: 1410
+  fields:
+    text: kolesterol
+    
+- model: reksis_dosbing.keyword
+  pk: 1411
+  fields:
+    text: rule induction
+    
+- model: reksis_dosbing.keyword
+  pk: 1412
+  fields:
+    text: BPJS
+    
+- model: reksis_dosbing.keyword
+  pk: 1413
+  fields:
+    text: naïve bayes method
+    
+- model: reksis_dosbing.keyword
+  pk: 1414
+  fields:
+    text: decision tree algoritma c.45
+    
+- model: reksis_dosbing.keyword
+  pk: 1415
+  fields:
+    text: clustering algoritma k-means
+    
+- model: reksis_dosbing.keyword
+  pk: 1416
+  fields:
+    text: windows phone
+    
+- model: reksis_dosbing.keyword
+  pk: 1417
+  fields:
+    text: perpustakaan 
+    
+- model: reksis_dosbing.keyword
+  pk: 1418
+  fields:
+    text: step sizeflexible 
+    
+- model: reksis_dosbing.keyword
+  pk: 1419
+  fields:
+    text: manipulatorparametric modelling
+    
+- model: reksis_dosbing.keyword
+  pk: 1423
+  fields:
+    text: AHP
+    
+- model: reksis_dosbing.keyword
+  pk: 1424
+  fields:
+    text: Analytical Hierarchy Process
+    
+- model: reksis_dosbing.keyword
+  pk: 1425
+  fields:
+    text: NLP
+    
+- model: reksis_dosbing.keyword
+  pk: 1426
+  fields:
+    text: data science
+    
+- model: reksis_dosbing.keyword
+  pk: 1427
+  fields:
+    text: scraping
+    
+- model: reksis_dosbing.keyword
+  pk: 1428
+  fields:
+    text: data
+
+- model: reksis_dosbing.keyword
+  pk: 1429
+  fields:
+    text: game platform
+
+- model: reksis_dosbing.keyword
+  pk: 1430
+  fields:
+    text: decision tree algoritma
+
+- model: reksis_dosbing.keyword
+  pk: 1431
+  fields:
+    text: gamification
