@@ -8,3 +8,4 @@ backend/data_dosen.json
 .vscode
 frontend/node_modules/
 build
+package-lock.json
