@@ -1,0 +1,6 @@
+@media only screen and (max-width: 1000px) {
+    .modal-logout{
+      max-width: 350px; 
+      margin: auto auto !important;
+    }
+}

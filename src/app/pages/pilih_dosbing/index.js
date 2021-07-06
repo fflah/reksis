@@ -11,6 +11,7 @@ import {
     Switch,
 } from "react-router-dom";
 import {connect} from 'react-redux';
+import ReactLoading from 'react-loading';
 
 
 export class PilihDosbing extends Component {
@@ -88,7 +89,7 @@ export class PilihDosbing extends Component {
 
     handleSubmit = () =>{        
         if(this.state.paperPost.judul !== "" && this.state.paperPost.abstrak !== "" && this.state.paperPost.keyword !== "" ){
-            if(this.state.paperPost.abstrak.split(' ').length >=150){
+            if(this.state.paperPost.abstrak.split(' ').length >=100){
                 let data = {
                     'input': `${this.state.paperPost.judul} ${this.state.paperPost.abstrak} ${this.state.paperPost.keyword}`
                 }            
@@ -100,6 +101,8 @@ export class PilihDosbing extends Component {
                             isSubmit:true,
                             reksis_dosen:result,                
                         })
+
+                        console.log('result:', result)
                         
                     }).catch((error) => {
                         console.log(error, "catch the hoop");
@@ -108,7 +111,7 @@ export class PilihDosbing extends Component {
 
             }else{
 
-                this.setState({errorMessage:'Abstrak kamu kurang, minimal 150 kata :('})
+                this.setState({errorMessage:'Abstrak kamu kurang, minimal 100 kata :('})
             }
         }else{
             this.setState({errorMessage:'Form yang kamu isi belum lengkap :('})
@@ -145,10 +148,10 @@ export class PilihDosbing extends Component {
                     <div className="container d-flex p-md-0">
                     <ComponentsSidebar/>
 
-                    <Modal centered backdrop="static" size="sm" show={this.state.show} onHide={this.handleClose}>
+                    <Modal dialogClassName="modal-reksis" centered backdrop="static" size="sm" show={this.state.show} onHide={this.handleClose}>
                         <Modal.Body id="modal_loading" > 
                         <div className="loading text-center">
-                            <i className="fa-6x fas fa-circle-notch fa-spin"></i>
+                            <ReactLoading  className="loading-icon" type={'spin'} color={'#007BFF'} height={'80px'} width={'80px'} />
                             <p>Memuat...</p>
                         </div>
                         </Modal.Body>
@@ -210,25 +213,23 @@ export class PilihDosbing extends Component {
                             <span>Home</span>
                             <span>Rekomendasi Dosbing</span>
                         </div>
+                            <h5 className="mg-b-10 title-reksis">Data yang kamu inputkan</h5>
                             <div className="card mhs">
                                 <div className="card-horizontal">
                                 <div className="row">
                                     <div className="col-lg-12 pt-2 pb-2 ">
-                                        <div className="card-body pl-0 pt-1 ml-3">
-                                            {/* <h4 className="card-title ">{`${this.props.user.first_name} ${this.props.user.last_name}`}</h4>
-                                            <hr></hr> */}
-
+                                        <div className="card-body pl-0 pt-1 ml-3">                                            
                                             <div className="judul">
-                                                <p className="card-text text-muted title">Judul</p>
-                                                <p className="card-text text-muted diskripsi">{this.state.paperPost.judul}</p>
+                                                <p className="card-text text-dark title">Judul</p>
+                                                <p className="card-text text-dark diskripsi">{this.state.paperPost.judul}</p>
                                             </div>
                                             <div className="abstrak">
-                                                <p className="card-text text-muted title">Abstrak</p>
-                                                <p className="card-text text-muted diskripsi">{this.state.paperPost.abstrak}</p>
+                                                <p className="card-text text-dark title">Abstrak</p>
+                                                <p className="card-text text-dark diskripsi">{this.state.paperPost.abstrak}</p>
                                             </div>
                                             <div className="abstrak">
-                                                <p className="card-text text-muted title">Keyword</p>
-                                                <p className="card-text text-muted diskripsi">{this.state.paperPost.keyword}</p>
+                                                <p className="card-text text-dark title">Keyword</p>
+                                                <p className="card-text text-dark diskripsi">{this.state.paperPost.keyword}</p>
                                             </div>
                                         </div>
                                     </div>
@@ -238,7 +239,7 @@ export class PilihDosbing extends Component {
                                 </div>
                                 
                             </div>
-                        <h5 className="mg-b-10 title-reksis">Dibawah ini hasil rekomendasi dosbing untuk kamu</h5>
+                        <h5 className="mg-b-10 title-reksis">Hasil rekomendasi dosbing untuk kamu</h5>
                         <div className="row">
                             {this.state.reksis_dosen.map((reksis, index) =>{
                                 let text_score = undefined;

@@ -63,7 +63,7 @@ hr{
   .card-body{
     margin-left: 25px;
   }
-  .modal-dialog {
+  .modal-reksis {
     max-width: 150px; 
     margin: auto;
   }
@@ -75,7 +75,7 @@ hr{
 }
 
 @media screen and (min-width: 676px) {
-  .modal-dialog {
+  .modal-reksis {
     max-width: 150px; 
   }
 }
@@ -107,4 +107,8 @@ hr{
 
 .title-reksis{
   margin-top:20px;
+}
+
+.loading-icon{
+  margin: auto auto;
 }

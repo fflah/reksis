@@ -5,13 +5,14 @@ import GoogleLogin from 'react-google-login';
 import API from '../../../services';
 import {connect} from 'react-redux'
 import {Modal} from 'react-bootstrap';
-
+import ReactLoading from 'react-loading';
 
 
 export class Landing extends Component {
   constructor(props) {
     super(props);
     this.handleClose = this.handleClose.bind(this);
+    
     this.handleShow = this.handleShow.bind(this);             
   }
     state = {        
@@ -47,14 +48,13 @@ export class Landing extends Component {
             localStorage.setItem('token', response.accessToken);
             localStorage.setItem('profile_url', response.profileObj.imageUrl);
             this.setState({show:false})
-
         }
         return (
             <div className="loaded">
-                <Modal centered backdrop="static" size="sm" show={true} onHide={this.handleClose}>
+                <Modal dialogClassName="modal-reksis" centered backdrop="static" size="sm" show={this.state.show} onHide={this.handleClose}>
                     <Modal.Body id="modal_loading" > 
                     <div className="loading text-center">
-                        <i className="fa-6x fas fa-circle-notch fa-spin"></i>
+                        <ReactLoading  className="loading-icon" type={'spin'} color={'#007BFF'} height={'80px'} width={'80px'} />
                         <p>Memuat...</p>
                     </div>
                     </Modal.Body>
