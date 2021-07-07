@@ -7,7 +7,7 @@ from jcopml.utils import load_model
 import nltk
 import ast
 from .models import Dosen
-nltk.download('punkt', 'reksis_dosbing/nltk_data')
+# nltk.download('punkt', 'reksis_dosbing/nltk_data')
 
 dosen = [
     'Heru Supriyono, S.T., M.Sc., PhD',
