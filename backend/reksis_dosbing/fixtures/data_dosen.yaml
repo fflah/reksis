@@ -1,0 +1,255 @@
+- model: reksis_dosbing.dosen
+  pk: 1
+  fields:
+    nama: "Heru Supriyono, S.T., M.Sc., Ph.D"
+    foto: "./dosen/heru.jpg"
+    fname: "Heru"
+    lname: "Supriyono"        
+    nip: "970"                
+    home_base: "Program Studi Teknik Elektro"    
+    pendidikan: "S3"
+    alumni:  "University of Sheffield, UK"
+    link_scholar: "https://scholar.google.co.in/citations?user=MCZ0eicAAAAJ&hl=en&oi=ao"
+    email: "hs118@ums.ac.id"
+
+
+- model: reksis_dosbing.dosen
+  pk: 2
+  fields:
+    nama: "Dr. Endah Sudarmilah, S.T, M.Eng"
+    foto: "./dosen/endah.jpg"
+    fname: "Endah"
+    lname: "Sudarmilah"        
+    nip: "969"                
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S3"
+    alumni: "Universitas Gadjah Mada"
+    link_scholar: "https://scholar.google.co.in/citations?user=WJs5Mq0AAAAJ&hl=en&oi=ao"
+    email: "es132@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 3
+  fields:
+    nama: "Azizah Fatmawati, M.Cs., S.T."
+    foto: "./dosen/azizah.jpg"
+    fname: "Azizah"
+    lname: "Fatmawati"        
+    nip: "1198"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S2"
+    alumni: "Universitas Gadjah Mada"
+    link_scholar: "https://scholar.google.co.in/citations?user=ks-M3lcAAAAJ&hl=da"
+    email: "af157@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 4
+  fields:
+    nama: "Nurgiyatna, S.T., M.Sc., Ph.D"
+    foto: "./dosen/default.jpg"
+    fname: "Nurgiyatna"
+    lname: null,        
+    nip: "881"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S3"
+    alumni: "University of Manchester"
+    link_scholar: "https://scholar.google.co.in/citations?user=z3zybDIAAAAJ&hl=en&oi=ao"
+    email: "nur168@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 5
+  fields:
+    nama: "Aris Rakhmadi, S.T., M.Eng"
+    foto: "./dosen/default.jpg"
+    fname: "Aris"
+    lname: "Rakhmadi"        
+    nip: "983"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S2"
+    alumni: "Universitas Gadjah Mada"
+    link_scholar: "https://scholar.google.co.in/citations?user=Stf_FEgAAAAJ&hl=en&oi=ao"
+    email: "ar700@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 6
+  fields:
+    nama: "Dedi Gunawan, S.T., M.Sc, Ph.D"
+    foto: "./dosen/dedi_gunawan.jpg"
+    fname: "Dedi"
+    lname: "Gunawan"        
+    nip: "1305"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S3"
+    alumni: "Kanazawa University, Japan"
+    link_scholar: "https://scholar.google.co.in/citations?user=XtHYwNQAAAAJ&hl=en&oi=ao"
+    email: "dg163@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 7
+  fields:
+    nama: "Prof. Dr. Budi Murtiyasa, M.Kom"
+    foto: "./dosen/budi_murtiasa.jpg"
+    fname: "Budi"
+    lname: "Murtiyasa"        
+    nip: "196107221985031003"        
+    home_base: "Program Studi Pendidikan Matematika"                
+    pendidikan: "S3"
+    alumni: "Universitas Gadjah Mada"
+    link_scholar: "https://scholar.google.co.in/citations?user=361HVrcAAAAJ&hl=en&oi=ao"
+    email: "bm277@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 8
+  fields:
+    nama: "Husni Thamrin, M.T., Ph.D"
+    foto: "./dosen/husni.jpg"
+    fname: "Husni"
+    lname: "Thamrin"        
+    nip: "706"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S3"
+    alumni: "University of Glasgow, UK"
+    link_scholar: "https://scholar.google.co.in/citations?user=OqDJIV4AAAAJ&hl=en&oi=ao"
+    email: "ht194@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 9
+  fields:
+    nama: "Ir. Bana Handaga, M.T., Ph.D"
+    foto: "./dosen/default.jpg"
+    fname: "Bana"
+    lname: "Handaga"        
+    nip: "793"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S3"
+    alumni: "Universiti Tun Hussein Onn Malaysia"
+    link_scholar: "https://scholar.google.co.in/citations?user=ZiM0ZyAAAAAJ&hl=en&oi=ao"
+    email: "bh014@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 10
+  fields:
+    nama: "Fatah Yasin Al Irsyadi, S.T., M.T"
+    foto: "./dosen/fatah.jpg"
+    fname: "Fatah Yasin Al"
+    lname: "Irsyadi"        
+    nip: "738"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S2"
+    alumni: "Universitas Gadjah Mada"
+    link_scholar: "https://scholar.google.co.in/citations?user=H8TV1tEAAAAJ&hl=en&oi=ao"
+    email: "fyai181@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 11
+  fields:
+    nama: "Devi Afriyantari Puspa Putri, S.Kom., M.Sc"
+    foto: "./dosen/default.jpg"
+    fname: "Devi"
+    lname: "Afriyantari Puspa Putri"        
+    nip: "1819"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S2"
+    alumni: "University of Manchester, UK"
+    link_scholar: "https://scholar.google.co.in/citations?user=pcGtGbUAAAAJ"
+    email: "dap129@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 12
+  fields:
+    nama: "Dimas Aryo Anggoro, S.Kom., M.Sc."
+    foto: "./dosen/dimas.jpg"
+    fname: "Dimas"
+    lname: "Aryo Anggoro"        
+    nip: "1811"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S2"
+    alumni: "University of Manchester, UK"
+    link_scholar: "https://scholar.google.co.in/citations?user=mjI__8MAAAAJ&hl=en"
+    email: "daa310@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 13
+  fields:
+    nama: "Maryam , S.Kom., M.Eng."
+    foto: "./dosen/default.jpg"
+    fname: "Maryam"
+    lname: null,        
+    nip: "100.1919"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S2"
+    alumni: "Universitas Gadjah Mada"
+    link_scholar: "https://scholar.google.co.in/citations?user=hog4PJYAAAAJ"
+    email: "mar290@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 14
+  fields:
+    nama: "Fajar Suryawan, S.T., M.Eng.Sc., Ph.D"
+    foto: "./dosen/fajar.jpg"
+    fname: "Fajar"
+    lname: "Suryawan"        
+    nip: "924"        
+    home_base: "Program Studi Teknik Elektro"    
+    pendidikan: "S3"
+    alumni: "University of Newcastle, Australia"
+    link_scholar: "https://scholar.google.co.in/citations?user=qZiB6U4AAAAJ"
+    email: "fs100@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 15
+  fields:
+    nama: "Jumadi, S.Si., M.Sc, Ph.D"
+    foto: "./dosen/jumadi.jpg"
+    fname: "Jumadi"
+    lname: null,        
+    nip: "1188"        
+    home_base: "Program Studi Geografi"    
+    pendidikan: "S3"
+    alumni: "University of Leeds, UK"
+    link_scholar: "https://scholar.google.co.in/citations?user=xHu1Sy0AAAAJ"
+    email: "jum208@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 16
+  fields:
+    nama: "Dr. Agus Ulinuha, M.T."
+    foto: "./dosen/agus_ulinuha.jpg"
+    fname: "Agus"
+    lname: "Ulinuha"        
+    nip: "656"        
+    home_base: "Program Studi Teknik Elektro"    
+    pendidikan: "S3"
+    alumni: "Curtin University of Technology, Australia"
+    link_scholar: "https://scholar.google.co.in/citations?user=KCKBjdEAAAAJ"
+    email: "au121@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 17
+  fields:
+    nama: "Munajat Tri Nugroho, S.T., M.T., Ph.D"
+    foto: "./dosen/munajat.jpg"
+    fname: "Munajat Tri"
+    lname: "Nugroho"        
+    nip: "810"        
+    home_base: "Program Studi Teknik Industri"    
+    pendidikan: "S3"
+    alumni: "Universitas Leeds,UK"
+    link_scholar: "https://scholar.google.co.in/citations?user=pTCTCygAAAAJ"
+    email: "mtn140@ums.ac.id"
+
+- model: reksis_dosbing.dosen
+  pk: 18
+  fields:
+    nama: "Dr.Eng. Yusuf Sulistyo Nugroho, S.T., M.Eng"
+    foto: "./dosen/yusuf.jpg"
+    fname: "Yusuf Sulistyo"
+    lname: "Nugroho"        
+    nip: "1197"        
+    home_base: "Program Studi Informatika"    
+    pendidikan: "S3"
+    alumni: "Universitas Gadjah Mada"
+    link_scholar: "https://scholar.google.co.in/citations?user=2NpK0EnWhdsC&hl=tr"
+    email: "ysn222@ums.ac.id"
+
+
+   
