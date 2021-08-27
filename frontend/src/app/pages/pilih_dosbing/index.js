@@ -54,16 +54,37 @@ export class PilihDosbing extends Component {
         
     }
     
-    hendelKeyword = (inputValue, callback) => {
+    hendelKeyword = (inputValue, callback) => {        
         setTimeout(() => {
             API.getKeyword(inputValue).then((data)=>{  
-                const tempArray = [];              
-                for (const keyword of data.results){                    
-                    tempArray.push({
-                        label: `${keyword.text}`,
-                        value: keyword.text,
-                    });
+                const tempArray = [];  
+                const keyword_by_comma = inputValue.split(',');                
+                
+                if (data.count !== 0){
+                    for (const keyword of data.results){                    
+                        tempArray.push({
+                            label: `${keyword.text}`,
+                            value: keyword.text,
+                        });
+                    }
+
+                    for (const keyword of keyword_by_comma.filter(String)){     
+                        tempArray.splice(0, 0, {
+                            label: `${keyword}`,
+                            value: keyword,
+                        })                                           
+                    }                    
+
+                }else{
+                    for (const keyword of keyword_by_comma.filter(String)){                                        
+                        tempArray.push({
+                            label: `${keyword}`,
+                            value: keyword,
+                        });
+                    }
                 }
+
+                
                 callback(tempArray);
                 
             }).catch((error) => {
@@ -89,32 +110,43 @@ export class PilihDosbing extends Component {
 
     handleSubmit = () =>{        
         if(this.state.paperPost.judul !== "" && this.state.paperPost.abstrak !== "" && this.state.paperPost.keyword !== "" ){
-            if(this.state.paperPost.abstrak.split(' ').length >=100){
-                let data = {
-                    'input': `${this.state.paperPost.judul} ${this.state.paperPost.abstrak} ${this.state.paperPost.keyword}`
-                }            
-                this.setState({show:true, errorMessage:''})
-                setTimeout(() => {
-                    API.postPaper(data, this.props.user_key).then((result)=>{                      
-                        this.setState({    
-                            show:false,                
-                            isSubmit:true,
-                            reksis_dosen:result,                
-                        })
-
-                        console.log('result:', result)
-                        
-                    }).catch((error) => {
-                        console.log(error, "catch the hoop");
-                    });
-                }, 1000);
+            if(this.state.paperPost.judul.split(' ').length >=3){
+                if(this.state.paperPost.abstrak.split(' ').length >=100){
+                    let data = {
+                        'input': `${this.state.paperPost.judul} ${this.state.paperPost.abstrak} ${this.state.paperPost.keyword}`
+                    }            
+                    this.setState({show:true, errorMessage:''})
+                    setTimeout(() => {
+                        API.postPaper(data, this.props.user_key).then((result)=>{                      
+                            this.setState({    
+                                show:false,                
+                                isSubmit:true,
+                                reksis_dosen:result,                
+                            })                                
+                            
+                        }).catch((error) => {
+                            console.log(error, "catch the hoop");
+                        });
+                    }, 1000);
+                }else{
+                    this.setState({errorMessage:'Abstrak kamu kurang, minimal 100 kata :('})
+                    setTimeout(() =>{
+                        this.setState({errorMessage:''})
+                    }, 2000)
+                }
 
             }else{
-
-                this.setState({errorMessage:'Abstrak kamu kurang, minimal 100 kata :('})
+                
+                this.setState({errorMessage:'Judul kamu kurang, minimal 3 kata :('})
+                setTimeout(() =>{
+                    this.setState({errorMessage:''})
+                }, 2000)
             }
         }else{
             this.setState({errorMessage:'Form yang kamu isi belum lengkap :('})
+            setTimeout(() =>{
+                this.setState({errorMessage:''})
+            }, 2000)
         }
     }
 
@@ -213,7 +245,7 @@ export class PilihDosbing extends Component {
                             <span>Home</span>
                             <span>Rekomendasi Dosbing</span>
                         </div>
-                            <h5 className="mg-b-10 title-reksis">Data yang kamu inputkan</h5>
+                            <h5 className="mg-b-10 title-reksis-input">Data yang kamu inputkan</h5>
                             <div className="card mhs">
                                 <div className="card-horizontal">
                                 <div className="row">
@@ -239,8 +271,10 @@ export class PilihDosbing extends Component {
                                 </div>
                                 
                             </div>
-                        <h5 className="mg-b-10 title-reksis">Hasil rekomendasi dosbing untuk kamu</h5>
+                        {
+                        !this.state.reksis_dosen.message ?
                         <div className="row">
+                            <h5 className="mg-b-10 title-reksis">Hasil rekomendasi dosbing untuk kamu</h5>
                             {this.state.reksis_dosen.map((reksis, index) =>{
                                 let text_score = undefined;
                                 if (reksis.value_similarity <=0.2)
@@ -313,10 +347,21 @@ export class PilihDosbing extends Component {
                                 </div>
                                 })
                             }
-                        <div className="col-lg-4 mg-t-20 mg-lg-t-15">
-                            <Button  onClick={() => this.handelBack()} variant="az-secondary btn-block">Kembali</Button>
+                            <div className="col-lg-4 mg-t-20 mg-lg-t-15">
+                                <Button  onClick={() => this.handelBack()} variant="az-secondary btn-block">Kembali</Button>
+                            </div>
                         </div>
+                        :
+                        <div className="row">
+                            <h5 className="mg-b-10 title-reksis">{this.state.reksis_dosen.message}</h5>
+
+                            
+                            <div className="col-lg-4 mg-t-20 mg-lg-t-15">
+                                <Button  onClick={() => this.handelBack()} variant="az-secondary btn-block">Kembali</Button>
+                            </div>
                         </div>                      
+
+                        }
                     </div>
                     </div>
                 </div>

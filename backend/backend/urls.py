@@ -15,3 +15,4 @@ urlpatterns = [
 ]
 
 format_suffix_patterns(urlpatterns)
+admin.site.site_header = 'Reksis Administration'

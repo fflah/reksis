@@ -114,6 +114,11 @@ hr{
 
 .title-reksis{
   margin-top:20px;
+  margin-left: 15px;
+}
+
+.title-reksis-input{
+  margin-top:20px;
 }
 
 .loading-icon{

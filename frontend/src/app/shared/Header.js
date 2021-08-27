@@ -162,11 +162,11 @@ export class Header extends Component {
                     <div className="az-header-right">
                     
                     <Dropdown className="az-header-notification">
-                        <Dropdown.Toggle as={"a"} className="new">
+                        {/* <Dropdown.Toggle as={"a"} className="new">
                         <i className="typcn typcn-bell"></i>
                         </Dropdown.Toggle>
                         <Dropdown.Menu>
-                        </Dropdown.Menu>
+                        </Dropdown.Menu> */}
                     </Dropdown>
                     <Dropdown className="az-profile-menu">
                         <Dropdown.Toggle as={"a"} className="az-img-user">

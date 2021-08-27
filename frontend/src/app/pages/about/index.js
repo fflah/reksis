@@ -38,10 +38,10 @@ export class About extends Component {
               <span>About</span>
             </div>
             <p className="mg-b-20" style={{textIndent: "30px"}}>
-            Hai aku reksis, aku rekomendasii sistem untuk memilih dosen pembimbing di prodi informatika UMS, aku dibangun dengan data-data publik
-            data dari google scholar, eprint ums, mail.ums, fki.ums.ac.id informatika.ums.ac.id, cara kerjaku simple, aku mencocokan judul, abstrak dan keyword 
-            mahasiswa dengan abstrak dan judul paper dosen yang telah terbit di akun google scholar. dengan harapan mahsiswa dapat menemukan dosen pembimbing terbaik nya di penellitian tugas akhirnya
-            aku hanya merekomendasikan, keputusan tetap dikamu sendiri, terimakasih.
+            Hai aku reksis, aku recommendation system untuk memilih dosen pembimbing di prodi Informatika UMS, aku dibangun dengan data-data publik,
+            data dari google scholar, eprint ums, mail.ums, fki.ums.ac.id informatika.ums.ac.id, dll. Cara kerjaku simple, aku mencocokan judul, abstrak dan keyword 
+            mahasiswa dengan abstrak dan judul paper dosen yang telah terbit di google scholar, dengan harapan mahasiswa dapat menemukan dosen pembimbing terbaiknya di penellitian tugas akhirnya.
+            Aku hanya merekomendasikan, keputusan tetap di kamu sendiri. Oh iya aku juga tidak menyimpan data nama, judul dan abstrak yang kamu inputkan. Terimakasih. 
 
             </p>
             <div className="row row-sm mg-b-20">

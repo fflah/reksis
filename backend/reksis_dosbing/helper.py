@@ -46,14 +46,21 @@ def reksis_dosbing(input=None):
             list_of_sim = sim.tolist()
             list_of_sim[0].sort()
             foto_dosen = Dosen.objects.filter(nama=nama_dosen).values('foto').first()
-            data = {          
-                'dosen':nama_dosen,      
-                'foto': foto_dosen,
-                'value_similarity':list_of_sim[0][-1],
-                'judul': df_bank[nama_dosen][int(arg_sim[0][-1])]['judul'],
-                'abstrak': df_bank[nama_dosen][int(arg_sim[0][-1])]['abstrak']   
-            }
-            list_of_result.append(data)
+            if list_of_sim[0][-1] != 0:
+                data = {          
+                    'dosen':nama_dosen,      
+                    'foto': foto_dosen,
+                    'value_similarity':list_of_sim[0][-1],
+                    'judul': df_bank[nama_dosen][int(arg_sim[0][-1])]['judul'],
+                    'abstrak': df_bank[nama_dosen][int(arg_sim[0][-1])]['abstrak'],
+                    'message' : True
+                }
+                list_of_result.append(data)
+            else:
+                list_of_result = {
+                    'message' : 'Maaf tidak ada dosen pembimbing tugas akhir yang cocok dengan inputan kamu.'
+                }
+                return list_of_result
         
         return sorted(list_of_result, key = lambda i: i['value_similarity'], reverse=True)[:5]
     else:
