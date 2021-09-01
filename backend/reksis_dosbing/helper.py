@@ -35,7 +35,7 @@ def reksis_dosbing(input=None):
         df_bank = pd.read_json('reksis_dosbing/data/dataset_bank.json')
         df.fillna(value='', inplace=True)
         sw_indo = load_model('reksis_dosbing/data/sw_indo.pkl')
-        tfidf_vectorizer = TfidfVectorizer(ngram_range=(1, 2), tokenizer=word_tokenize, stop_words=sw_indo)
+        tfidf_vectorizer = TfidfVectorizer(ngram_range=(1, 2), tokenizer=word_tokenize, stop_words=sw_indo, lowercase=True)
         list_of_result = []
         for nama_dosen in dosen:
             tfidf_matrix_train = tfidf_vectorizer.fit_transform(df[nama_dosen])
